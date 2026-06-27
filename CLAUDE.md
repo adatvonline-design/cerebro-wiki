@@ -238,3 +238,20 @@ Al comenzar sesión nueva:
 2. Leer `index.md`
 3. Leer últimas 3–5 entradas de `log.md`
 4. Reportar: N fuentes, estado de pendientes activos, última actividad
+
+---
+
+## Comando: haz respaldo
+
+Cuando Ernesto diga **"haz respaldo"** (o variantes como "haz el respaldo", "respaldo", "backup"), ejecutar en orden:
+
+```powershell
+git -C "C:\Users\Dell\Documents\obsidian\Cerebro" add .
+git -C "C:\Users\Dell\Documents\obsidian\Cerebro" commit -m "Wiki backup YYYY-MM-DD"
+git -C "C:\Users\Dell\Documents\obsidian\Cerebro" push origin master
+```
+
+Reemplazar `YYYY-MM-DD` con la fecha real del día.
+
+Confirmar al usuario: cuántos archivos se commitearon y que el push fue exitoso.
+Si no hay cambios nuevos, informarlo ("No hay cambios desde el último respaldo").
