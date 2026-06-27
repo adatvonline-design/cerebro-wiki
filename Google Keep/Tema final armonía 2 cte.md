@@ -1,0 +1,11 @@
+
+- min 2 min duración
+- al menos 1 cadena de dominantes extendidos
+- al menos 2 dominantes sustitutos
+- al menos 2 dominantes secundarios
+- al menos 2 ii's relacionados
+- al menos una cadena de 2 5 extendidos 
+- acordes interpolados?
+- entregar partitura legible y audio 
+- y el análisis de todo
+- ;)

@@ -1,0 +1,48 @@
+---
+tags:
+  - Keep/Pinned
+---
+
+
+- [ ] idea 1 27 nov 2022
+- [ ] idea 2 27 nov 2022
+- [ ] idea joshua 3   93% falta obligados batería?
+- [ ] bateria 7 4  90%
+- [ ] idea joshua 4 70%
+- [ ] tema jazz 3 85% 
+- [ ] idea yotam 93 % !! falta final
+- [ ] idea washington 1  51%
+- [ ] idea washingon piano 2  30%
+- [ ] idea parks 2 
+- [ ] idea Ebm  75%
+- [ ] idea rhythm changes %65
+- [ ] idea folk 2 90%
+- [ ] jazz punk  .. 75%
+- [ ] tema jazz oldie 1         95%
+- [ ] idea trio fusion 4  90% NO
+- [ ] idea trio 1 ..   87%
+- [ ] idea dany 2 85%
+- [ ] idea trio fusion 2     40%
+- [ ] idea niños 36%
+- [ ] propio jazz idea 4 bueno 35%
+- [ ] tema jazz 4  30% 
+- [ ] tema voz 2 70%
+- [ ] idea joshua 1 20%
+- [ ] idea trio jazz fusion 3  25%
+- [ ] Idea parks 1 .. 20%
+- [ ] idea trio fusion 2 60%
+- [ ] idea parks piano 10%
+- [ ] idea arp 1 %5
+- [ ] idea joshua 2 30%
+- [ ] trabajar jazz fusion, idea parks
+- [ ] idea loop 1 35%
+- [ ] idea 1ro oct 17   25%
+- [ ] tema jazz 4 2da version 25%
+- [ ] tema funk 1 25% 
+- [ ] idea groove elect funk 50%
+- [X] rosenwinkel blues 2 kurt 100% 
+- [X] kurt  100%
+- [X] idea scofield 1 WILD 100%
+- [X] familia bruselas 90% falta final
+- [X] glaswen 2 .. 76%
+- [X] NES idea potter 1 100%

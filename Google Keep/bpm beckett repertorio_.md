@@ -1,0 +1,88 @@
+---
+aliases:
+  - "bpm beckett repertorio "
+---
+
+
+- [ ] dont stop till you get enough 120 SI 
+- [ ] staying alive 95 NO
+- [ ] more than a woman 109 SI 
+- [ ] let me love you 110 NO 
+- [ ] cosmic girl 127 **  NO 
+- [ ] murder on the dance floor NO  
+- [ ] take my eyes off you 122 SI
+- [ ] Please, please 
+- [ ] Messy 112     SI
+- [ ] flowers 123  NO 
+- [ ] I feel it coming 106
+- [ ] uno x100to     NO 
+- [ ] Rosa pastel 118     SI   
+- [ ] lady mermelade 116 SI  
+- [ ] Do you think I'm sexy 125  SI PUEDE SER
+- [ ] I feel good
+- [ ] birds of a feather (dueto)
+- [ ] Baboleo (solo violin) 
+- [ ] Mercy 151
+- [ ] Fly me 120
+- [ ] besame 110
+- [ ] if I aint got you (dueto) 
+- [ ] Call you rose 54
+- [ ] Duos 
+- [ ] Dont start now 130
+- [ ] Crazy 110 - Rosa 118
+- [ ] sabor  a mi 100
+- [ ] treasure 120
+- [ ] Do you think I'm sexy 115
+- [ ] Messy. 112
+- [ ] Pretty woman
+- [ ] Do you think I'm sexy 
+- [ ]  
+- [ ] It ait over 
+- [ ] Duo
+- [ ] Get you out of my head 128
+- [ ] if I aint got you /duos
+- [ ] I feel good
+- [ ] Da ya think I'm sexy 115
+- [ ] Messy 112 
+- [ ] viva la vida 
+- [ ] valerie 108
+- [ ] es por ti 
+- [ ] Dúos
+- [ ] My way
+- [ ] i´m not the only one 
+- [ ] perfume gardenias 
+- [ ] we found love 125
+- [ ] 2 dúos Alicia, not they only one
+- [ ] If ain't got you
+- [ ] the way you look tonite 114
+- [ ] It aint over
+- [ ] duo 
+- [ ] te dejo madrid 
+- [ ] birds of a feather
+- [ ] las de la intuición
+- [ ] loose control   52  3/4        F#m  I bIII   bVI  V
+- [ ] crazy little thing called love
+- [ ] eres para mi
+- [ ] love never felt so good  116
+- [ ] get you out of my head  124
+- [ ] i feel good 
+- [ ] Green and gold 
+- [ ] ---------------------------------------------------------------------------
+- [ ] mercy 151
+- [ ] i feel it still 155
+- [ ] mirislou 194
+- [ ] the way you make me feel 114
+- [ ] like im gonna loose you 60
+- [ ] lost on you 86
+- [ ] aint no sunshine 81
+- [ ] Lady modjo 127
+- [ ] Play that funky 115
+- [X] havana 126
+- [X] piel canela 108
+- [X] all about that bass 127
+- [X] Happy
+- [X] Kiss me more 
+- [X] we feel love 125
+- [X] it aint over 86
+- [X] call you rose 53
+- [X] duo

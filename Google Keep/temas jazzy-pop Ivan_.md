@@ -1,0 +1,50 @@
+---
+aliases:
+  - "temas jazzy-pop Ivan "
+---
+
+
+- [ ] While my guitar gently weeps (beatles)
+- [ ] How deep is your love (bee gees)
+- [ ] You know i'm no good (amy winehouse)
+- [ ] Back to black (amy winehouse)
+- [ ] Home (bubble)
+- [ ] Im yours (jason mraz)
+- [ ] Something stupid (bubble)
+- [ ] Sunday morning (maroon 5)
+- [ ] Love on the brain (rihanna)
+- [ ] I feel good   (james brown)
+- [ ] Creep  (radiohead) bossa A 
+- [ ] I feel it coming (the weekend) Am
+- [ ] Let it be (beatles)
+- [ ] Is this love (bob marley)
+- [ ] No woman no cry (bob marley)
+- [ ] I can't help it (michael jackson)
+- [ ] Hit the road jack (ray charles)
+- [ ] Just the way you are (billy joel)
+- [ ] Overjoyed (stevie wonder)
+- [ ] Aint no sunshine (bill withers)
+- [ ] Every breath you take (the police) bossa
+- [ ] Sweet child of mine (guns n roses) bossa G
+- [ ] Thinking out loud (ed sheeran)
+- [X] All about tha bass (Meghan trainor)
+- [X] Can't take my eyes off you (frankie valli)
+- [X] Mirrors (justin timberlake)
+- [X] It aint over till it's over (lenny kravitz)
+- [X] Kiss  me (sixpence)
+- [X] Crazy (gnarls barkley)
+- [X] Valerie (amy winehouse)
+- [X] The way you make me feel (michael jackson)
+- [X] Get lucky (daft punk)
+- [X] Love never felt so good  (michael jackson)
+- [X] Happy (pharrel williams)
+- [X] September (earth wind and fire)
+- [X] Sugar (maroon 5)
+- [X] Treasure (bruno mars)
+- [X] Rehab (amy winehouse)
+- [X] Lady  (modjo)
+- [X] I got a woman (ray charles)
+- [X] Isnt she lovely (stevie wonder)
+- [X] Murder in the dance floor (sophie ellis)
+- [X] All my lovin (beatles)
+- [X] Shape of you (ed sheeran)

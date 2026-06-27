@@ -1,0 +1,3 @@
+
+cuantizar guitarra
+nuevo piano?

@@ -1,0 +1,94 @@
+---
+tags:
+  - Keep/Pinned
+---
+
+
+- [ ] registros indautor
+- [ ] respaldo disco duro
+- [ ] corregir anotaciones armonia moderna
+- [ ] LIBRO IMPROVISACIÓN
+- [ ] Video Udemy producciones 
+- [X] diploma armando curso ableton
+- [X] nothng else matters correciones norma
+- [X] tarea curso armonía
+- [X] hacer video IDEA TRIO 1 soleando!! 
+- [X] hacer exámenes armonía david!
+- [X] banner cmc
+- [X] taller jazz meche!!! 
+- [X] anuncio airbnb 
+- [X] temas danny df
+- [X] clasificados 
+- [X] hojas técnica excel guitarra.. retos... check boxes
+- [X] agregar subtitulos español video https://www.youtube.com/watch?v=5zGqN1ZOEJQ
+- [X] IFE
+- [X] agregar miembros musica para bodas y eventos guadalajara
+- [X] licencia 
+- [X] tab zeke malagueña
+- [X] acordes y video malagueña zeke
+- [X] enviar info emq festival del venado lavica antes 20 ene
+- [X] intercambio clases
+- [X] rasgueos articulo 80% falta video
+- [X] video ivan nau
+- [X] curso udemy gratis 0%
+- [X] pasaporte
+- [X] nuevo audio video armonización melodía
+- [X] tocada ags 
+- [X] videos americana insta
+- [X] temas misa great showman
+- [X] comprar cuerdas amazon
+- [X] audifonos paty
+- [X] FECHA presentación alumnos
+- [X] agregar fotos chapu y lunario pagina internet
+- [X] postear musica videojuegos cmc 
+- [X] SEO cmc
+- [X] instalar scarbee
+- [X] pintar salón
+- [X] lamparas salón
+- [X] base teclado
+- [X] ENVIAR TAREAS YOSHUA Y ARMONIA
+- [X] taller técnica de rock
+- [X] hacer video 2 licks blues robben ford
+- [X] hacer partitura potter 1, scofield 1, winkel blues
+- [X] terminar propio jazz idea 4 como scofield, propio jazz 7 idea cambiar melodia
+- [X] tema jazz 3 agregar letra
+- [X] trabajo señora limpieza
+- [X] videos rojo clase armonia 
+- [X] hoja cmc vane
+- [X] cambiar clases niños
+- [X] cambiar taller armonía
+- [X] cambiar clase victor 
+- [X] coche tocada sabado 
+- [X] sandra armonia?
+- [X] apartado MyE tips bodas 
+- [X] escalera ANA 
+- [X] cancelar amazon prime
+- [X] posada alumnos dic?
+- [X] CALIFIC
+- [X] pestaña comentarios cmc 
+- [X] fotos CMC
+- [X] video jazz propio 
+- [X] temas propios
+- [X] video producción issak victoria
+- [X] canción danny
+- [X] pizza isaak
+- [X] confirmar clases
+- [X] paco rentería 
+- [X] preparar curso ableton
+- [X] preparar clases paco 
+- [X] taller jazz ulm
+- [X] videos alumnos CMC
+- [X] partitura arturo 
+- [X] tips guitarra para enviar por whats, redes (flyer)
+- [X] actualizar pag ernestomercado
+- [X] tema esme
+- [X] percus bruselas duo
+- [X] subtitulos videos
+- [X] mezcla lo qu enos mueve
+- [X] vdeo nau linkenid
+- [X] historias insta nau por géneros
+- [X] disco ernesto alternativo!
+- [X] FMA freemusic archive submission email!
+- [X] hacer videos turnarounds
+- [X] bicordes verticales.. dodecafonico.. tricordes
+- [X] publicar pagina productor en linkenid

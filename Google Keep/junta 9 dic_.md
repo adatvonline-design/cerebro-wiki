@@ -1,0 +1,22 @@
+---
+aliases:
+  - "junta 9 dic "
+---
+
+contrato 
+-
+
+show 
+-dinámicas 
+-secuenciar click? 
+-show corrido o sets 
+
+empresa
+-junta cada semana o 15 dias después ensayo 
+-delegar 
+-respetar puestos 
+-definir salarios
+-alguien más que venda 
+-tener extras 
+-
+

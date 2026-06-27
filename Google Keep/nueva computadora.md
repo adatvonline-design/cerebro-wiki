@@ -1,0 +1,25 @@
+
+
+- [ ] firewall laptop
+- [ ] instalar omnisphere
+- [ ] instalar pulse
+- [ ] instalar smpli guitarra
+- [ ] inst rx
+- [ ] inst sibelius
+- [ ] limpiar pc 
+- [ ] chat gpt como respaldar disco duro
+- [X] disco duro 
+- [X] comprar windows 
+- [X] hacer usb windows 11
+- [X] bajar omnisphere 2 trillian
+- [X] bajar waves 14
+- [X] buscar baterias abbey road
+- [X] instalar ableton
+- [X] instalar cubase 
+- [X] voicemeeter bannaa
+- [X] instalar de reverb
+- [X] inst ozone 
+- [X] inst waves
+- [X] inst kontakt
+- [X] inst davinci
+- [X] inst darbouka

@@ -1,0 +1,45 @@
+---
+aliases:
+  - Pendientes
+tags:
+  - Keep/Color/Blue
+---
+
+
+- [ ] Depositar goda
+- [ ] Disipador de calor lap
+- [ ] Reconocimiento teatro
+- [ ] Joe Damián. Introducción por composición 
+- [X] Clases grupales particulares
+- [X] Esdena proyectos
+- [X] Pila afinador
+- [X] Mensaje jess
+- [X] Terminar lista asistencia
+- [X] Proyector gamuza
+- [X] Loco debe $500
+- [X] Completar hojas con nombres one note
+- [X] Agregar walking gtr vi
+- [X] Pedir Oscar que suba los exámenes parciales
+- [X] Tarjeta crédito
+- [X] Planear gtr 6, impro 3,  gtr lic 4..M programas
+- [X] I take notes
+- [X] Planeciones
+- [X] Desodorante
+- [X] Papel baño
+- [X] Medicinas
+- [X] Ensayo Daniel
+- [X] Kriadex
+- [X] Cita issak/sol
+- [X] Preparar clases
+- [X] Cita bff
+- [X] Pedir temarios
+- [X] Gloria
+- [X] Office.. one note nvo
+- [X] No. Seguro social
+- [X] Limpiar cel
+- [X] Protección tablet
+- [X] Requerimientos clases one note
+- [X] Web psicod
+- [X] Lavar ropa
+- [X] Cita madelou
+- [X] firma bancomer
