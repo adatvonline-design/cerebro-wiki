@@ -1,0 +1,33 @@
+---
+type: musica
+tags: [musica, google-keep]
+---
+
+
+
+- [ ] intro                              
+- [ ] J'attendrai  
+- [ ]  Que reste-t-il de nos amours 
+- [ ]  Plus je t'embrasse  
+- [ ]  Sabor a mi 
+- [ ] La javanaise                            (lenta) 
+- [ ]  Je ne veux pas travailler 
+- [ ]  Garota de ipanema                         bossa 
+- [ ]  All of me 
+- [ ] tu me acostumbraste             (lenta) 
+- [ ] La foule 
+- [ ] Si tu vois ma mère                (instrumental)        
+- [ ]  C'est si bon 
+- [ ]  La vie en rose 
+- [ ]  ojos negros                 (encore  instrumental) 
+- [X] Ménilmontant D
+- [X] Les feuilles mortes Am
+- [X] Dis, quand reviendras-tu G ????
+- [X] Couleur café C
+- [X] Je me suis fait tout petit Fm
+- [X] LOVE D
+- [X] tres palabras Em
+- [X] so danço samba C
+- [X] Manha do carnaval/black orfeo Em
+- [X] * Les copains d'abord A
+- [X] • clarinete lento                                         inst abajo 

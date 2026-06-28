@@ -1,3 +1,0 @@
-
-Planear solo
-Imitar lenguaje 

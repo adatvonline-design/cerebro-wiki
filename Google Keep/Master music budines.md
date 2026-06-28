@@ -1,2 +1,0 @@
-
-Regalías como productor

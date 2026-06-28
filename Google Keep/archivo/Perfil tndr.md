@@ -1,0 +1,7 @@
+---
+type: archivo
+tags: [archivo, google-keep]
+---
+
+
+Intenté aprender a bailar salsa viendo videos de youtube. De niño quería ser fraile. Puedo ser perfeccionista hasta que me harto y entonces.. improviso. Me encanta lo que hago y si..  se puede vivir bien de la música

@@ -1,0 +1,7 @@
+---
+type: archivo
+tags: [archivo, google-keep]
+---
+
+
+Cuando subes una canción a plataformas con una distribuidora,  tienes que registrarla en INDAUTOR, firmarla en una editora y después registrarla en SACM. Después registra el máster en INDAUTOR, registrarte en soundexange y asi podras cobrar todas las regalías de tu canción.

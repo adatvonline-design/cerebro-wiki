@@ -1,2 +1,0 @@
-
-Traer cutter, guitarras

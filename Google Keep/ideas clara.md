@@ -1,4 +1,0 @@
-
-obra teatro 
-caballos
-restaurant

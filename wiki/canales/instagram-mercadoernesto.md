@@ -34,6 +34,20 @@ _Canal principal de educación musical. Ángulo: guitarrista/artista con conteni
 | Acordes aumentados | **29.9** |
 | Sustitución de dominantes | **28.7** |
 
+### Publicaciones con datos reales (dic. 2025)
+
+| Publicación | Vistas | Interacciones | Seguidores ganados | CTR conversión |
+|---|---|---|---|---|
+| "switch productor" | **758,850** | **72,594** | 440 | — |
+| "cuidados músico" | 220,807 | 12,590 | 95 | — |
+| "qué son las tensiones" | 16,429 | 1,439 | 299 | — |
+
+Desglose "switch productor": 47,072 likes · 473 comentarios · **20,904 shares** · 4,145 guardados. Facebook aportó 18,238 vistas, Instagram 54,356.
+
+Desglose "cuidados músico": 4,330 likes · 106 comentarios · **7,551 shares** · 603 guardados.
+
+> ✓ Confirmado: "qué son las tensiones" (contenido educativo de armonía) generó **299 seguidores con solo 16k vistas** — ratio altísimo. Confirma que educativo convierte mejor que viral.
+
 ### Sobre el reel viral (dic. 2025)
 - Vistas: 2.23M
 - Tasa de conversión: 0.94/1,000 — **una de las peores**

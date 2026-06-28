@@ -1,0 +1,7 @@
+---
+type: archivo
+tags: [archivo, google-keep]
+---
+
+
+the patient is seeing a white light on his peripheral vision that moves up and down on his left eye. This light is not present at all times. This events last probably 5 seconds and occur around every 15 minutes.  The patient is 43 years old. The patient asks if weight lifting or gym work is adviced or what kind of excercise can be advised. The patient has suffered from unifocal ventricular extrasystole with periods of bigeminy for some years now with progressive decrease of the episodes. Nowadays probably on or two mild episodes happen per week. The patient usually fasts 5 days a week for 16 hours. Once every 2 weeks for 24 hours.

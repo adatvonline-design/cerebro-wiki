@@ -1,0 +1,7 @@
+---
+type: archivo
+tags: [archivo, google-keep]
+---
+
+
+Hay una situación: tengo la intención de realizar algunas sesiones en vivo un tanto ambiciosas con EMQ -Ernesto Mercado Quintet y colaboraciones externas. ¿Habrá entre mis contactos alguien (gestión cultural, negocios de la música, etc) que me pueda brindar una asesoría pagada? ¿Me ayudan etiquetando a la persona indicada? Gracias!

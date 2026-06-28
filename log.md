@@ -76,3 +76,26 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 - **Contradicciones detectadas**: ninguna (primer ingest)
 - **Pendientes detectados**: ~15 ítems marcados con `> ⚠️` distribuidos en varias páginas
 - **Notas**: Ingest fundacional. El wiki parte con una base sólida de contexto real, métricas y configuraciones actuales.
+
+## [2026-06-28] organización | Clasificación y limpieza de notas Google Keep
+
+- **Acción**: Clasificación automática de 1,513 notas de Google Keep con script Python por keywords
+- **Distribución resultante**:
+  - `Google Keep/musica/` — 352 notas (repertorios, progresiones, licks, referencias)
+  - `Google Keep/negocio/` — 97 notas (clases, eventos, marketing, juntas)
+  - `Google Keep/ideas/` — 21 notas (conceptos, recursos, contenido)
+  - `Google Keep/herramientas/` — 1 nota (guía Sony ZV-E10 + gimbal)
+  - `Google Keep/archivo/` — 1,042 notas (triviales, completadas, personales, sin clasificar)
+- **Ningún archivo borrado** — solo reorganización en subcarpetas
+
+## [2026-06-28] ingest | Notas Google Keep → wiki
+
+- **Fuente**: Notas de negocio e ideas de Google Keep (dic. 2025 principalmente)
+- **Páginas actualizadas**:
+  - [[wiki/negocios/emq]] — agregada alineación completa (Eli sax, Freedy bajo, Shatter piano, Guillermo bat), descripción artística, links Spotify/YouTube/web
+  - [[wiki/canales/instagram-mercadoernesto]] — agregadas métricas reales dic. 2025: "switch productor" 758k vistas/72k interacciones, "cuidados músico" 220k vistas, "tensiones" 16k vistas/299 seguidores
+- **Páginas creadas**:
+  - [[wiki/canales/youtube-mercadoernesto]] — canal YouTube, datos de "acordes aumentados": 8.26% CTR, 1,145 vistas en 4h, 47% retención
+  - [[wiki/herramientas/obs-zoom-clases]] — setup técnico OBS+Zoom+VoiceMeeter+Ableton para clases en línea
+- **Pendientes detectados**: Definir estrategia de distribución EMQ, cadencia YouTube, performance histórico del canal
+- **No ingresado** (fuera de scope del wiki): listas personales, películas, regalos, gastos domésticos, mensajes personales, calendarios de disponibilidad

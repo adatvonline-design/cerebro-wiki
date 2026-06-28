@@ -1,2 +1,0 @@
-
-Rem Ariana grande 

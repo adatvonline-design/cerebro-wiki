@@ -1,4 +1,0 @@
----
-aliases:
-  - "PROPUESTA WILL & JON "
----

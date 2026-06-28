@@ -1,0 +1,38 @@
+---
+type: musica
+tags: [musica, google-keep]
+---
+
+
+
+- [ ] VIDEO 3 GUITARRAS PROGRESIVO min 18 50 video belew
+- [ ] cursos cmc página
+- [ ] video producción canción tu adiós isaak para cmc
+- [ ] diplomas cmc
+- [ ] preguntar si alguien ya tiene titulo
+- [ ] ebook - igual  a curso online
+- [ ] hacer ebook de libro armonía que ya tengo, vender en pag, cmc y amazon
+- [ ] hacer blog!
+- [ ] patreon
+- [ ] escribir influencers
+- [ ] pestaña donación pagina
+- [ ] NUEVA publicidad.. jpg "no puedo estudiar gtr"  con link
+- [ ] Editar CMC! agregar clases individuales, cambiar visión etc
+- [ ] remezclar temas teatro para cmc
+- [ ] caricaturas como promo cmc?
+- [ ] memes, gifs como promo?
+- [ ] PUBLICIDAD CON DATOS CURIOSOS! 
+- [ ] hacer video tutorial donde pida mail a cambio de... 
+- [ ] EBOOK impro ulm
+- [ ] agregar pop up a pagina lecciones ernesto
+- [ ] costos CMC
+- [ ] reparar estuche 
+- [ ] ife!! 
+- [X] publicidad cmc
+- [X] Chepe! 
+- [X] Uber
+- [X] Curso composición
+- [X] subir a plataforma ulm video licks
+- [X] video licks instagram
+- [X] puerta para cuarto! 
+- [X] tocada 21  con ??--    mover!  tocada 26 con-- caro

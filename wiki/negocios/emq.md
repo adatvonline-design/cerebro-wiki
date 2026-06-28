@@ -4,7 +4,7 @@ type: negocio
 negocio: emq
 tags: [jazz, composicion, banda, artístico]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-06-28
 estado: activo
 ---
 
@@ -15,15 +15,30 @@ _Proyecto artístico de jazz con temas propios. Separado del negocio de clases y
 
 Banda de jazz de Ernesto con composiciones originales. Proyecto compositivo y artístico — no de eventos comerciales.
 
+*"La propuesta musical de EMQ es el resultado de ideas musicales emergentes y una inercia de innovación en un mundo que se dibuja cada vez más inclusivo, ecléctico y digital. Apuesta a generar historias sonoras universales a través de diferentes variantes del denominado Jazz Contemporáneo haciendo uso de contrastes rítmicos y texturas sonoras."*
+
+## Alineación
+
+| Instrumento | Músico |
+|---|---|
+| Guitarra | Ernesto Mercado |
+| Saxofón | Elí Avalos |
+| Bajo | Freedy Adrian |
+| Piano | Luis Shatter |
+| Batería | Guillermo Núñez |
+
+## Presencia digital
+
+- **YouTube**: https://www.youtube.com/channel/UCr6t8HefBClCibSChkZEAsw
+- **Web**: https://www.ernestomercado.com.mx/emq
+- **Spotify**: https://open.spotify.com/artist/43XTvndMwN8nEitO7zQCy4
+- **Facebook**: https://www.facebook.com/ErnestoMercadoQ/
+
 ## Estado actual
 
-Información limitada en el briefing inicial. Pendiente profundizar en:
-- Formato y integrantes del quinteto
-- Actividad y presentaciones
-- Estrategia de distribución de música (streaming, etc.)
-- Relación con los demás negocios (¿leads de clases? ¿credibilidad para Bruselas?)
-
-> ⚠️ Pendiente: Ampliar esta página con información del proyecto (shows, discografía, estrategia).
+> ⚠️ Pendiente: Definir actividad de presentaciones y fechas próximas.
+> ⚠️ Pendiente: Estrategia de distribución/streaming activa.
+> ⚠️ Pendiente: Documentar discografía y composiciones propias.
 
 ## Conexiones
 - [[wiki/negocios/bruselas-live-music]] — distinción importante: EMQ es artístico, Bruselas es comercial

@@ -1,2 +1,0 @@
-
-solifenacina 5mg

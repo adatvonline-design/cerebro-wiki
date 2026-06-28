@@ -1,0 +1,29 @@
+---
+type: musica
+tags: [musica, google-keep]
+---
+
+
+
+- [X] boletos ida 
+- [X] boletos regreso 
+- [X] boleto irapuato cdmx ernesto
+- [X] boleto regreso tania
+- [X] proyecto ableton
+- [X] respaldo proyecto 
+- [X] logistica equipo ropa 
+- [X] que guitarra
+- [X] violin yepes 
+- [X] soundcheck horario
+- [X] cotizar- conseguir snake, micros bases batería . 
+- [X] reparar cables 
+- [X] boletos musicos 
+- [X] mensaje van cambiar hora recogida 
+- [X] dinero extra para cargar a george
+- [X] contar cables 
+- [X] chklist de todo necesario beckett
+- [X] bajar tablet netflix, masterclass
+- [X] airbnb o regaderas para cambiarse 
+- [X] rentar sprinter cerca estación autobus 
+- [X] quien recoge sprinter? 
+- [X] llevar laptop

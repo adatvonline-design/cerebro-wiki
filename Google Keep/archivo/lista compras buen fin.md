@@ -1,0 +1,30 @@
+---
+type: archivo
+tags: [archivo, google-keep]
+---
+
+
+
+- [ ] pedalera 
+- [ ] bocina behringer eurolive
+- [ ] controlador midi *
+- [ ] ableton push? 
+- [ ] funda camara
+- [ ] vinil pared?
+- [ ] pinturas?
+- [ ] tenis gym
+- [ ] tenis vans
+- [ ] laptop?
+- [ ] aire acondicionado
+- [ ] revestrerol*
+- [ ] suplementos  *
+- [ ] shampoo*
+- [ ] alcohol
+- [ ] sist inalámbrico
+- [ ] ampli (super champ?)  preguntar samy https://musicageneral.com.mx/fender/227-amplificador-fender-superchamp-x2-bulbos-2223000000.html
+- [ ] mixer fx 
+- [ ] perfume 
+- [ ] aparato pullups
+- [ ] clavijas guitarra
+- [X] caja directa    *
+- [X] p2 behringer  *

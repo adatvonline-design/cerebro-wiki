@@ -1,2 +1,0 @@
-
-Poner gate micro talkback

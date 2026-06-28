@@ -1,4 +1,0 @@
-
-gambler
-cash 
-hank williams 

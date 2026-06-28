@@ -1,2 +1,0 @@
-
-Saludos. Te platico: las clases son  online y con un enfoque práctico. Las materias que se ofrecen son de instrumento (guitarra, piano y ukelele) producción en Ableton live, armonía/arreglo e improvisacion. Antes de comenzar con tus clases haremos una entrevista donde estableceremos tus metas y objetivos, para poder establecer un plazo de tiempo que nos permita cumplirlas. Te adjunto un pdf con los costos. Cualquier duda, estoy a tus órdenes! 

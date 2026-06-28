@@ -1,7 +1,7 @@
 # Index — Cerebro Wiki (Ernesto Mercado)
 
 Catálogo completo del wiki de negocio. Actualizado después de cada ingest.
-_Última actualización: 2026-06-27_
+_Última actualización: 2026-06-28_
 
 ---
 
@@ -9,7 +9,7 @@ _Última actualización: 2026-06-27_
 
 - [[wiki/negocios/educacion-musical]] — Clases 1:1 de guitarra/armonía/composición bajo @mercadoernesto y Nau Music Lab. Meta urgente: 12 alumnos nuevos. `[2026-06-27]`
 - [[wiki/negocios/bruselas-live-music]] — Música en vivo para bodas y eventos. @bruselaslivemusic. Canal preferido: B2B wedding planners. `[2026-06-27]`
-- [[wiki/negocios/emq]] — Ernesto Mercado Quintet. Proyecto artístico de jazz con temas propios. `[2026-06-27]`
+- [[wiki/negocios/emq]] — Ernesto Mercado Quintet. Jazz contemporáneo. Alineación: Eli (sax), Freedy (bajo), Shatter (piano), Guillermo (bat). `[2026-06-28]`
 - [[wiki/negocios/daftapp]] — Web app de progresiones de acordes en GitHub Pages. Distribución pendiente. `[2026-06-27]`
 
 ---
@@ -17,7 +17,8 @@ _Última actualización: 2026-06-27_
 ## Canales
 
 - [[wiki/canales/meta-ads]] — Pauta en Instagram/Facebook. Regla universal: objetivo Interacción + keyword, nunca Mensajes. `[2026-06-27]`
-- [[wiki/canales/instagram-mercadoernesto]] — Canal orgánico principal de educación. Datos: educativo convierte 8× más que viral. `[2026-06-27]`
+- [[wiki/canales/instagram-mercadoernesto]] — Canal orgánico principal de educación. Datos: educativo convierte 8× más que viral. Métricas dic. 2025 agregadas. `[2026-06-28]`
+- [[wiki/canales/youtube-mercadoernesto]] — Canal YouTube educativo. Video acordes aumentados: 8.26% CTR, 1,145 vistas en 4h. `[2026-06-28]`
 - [[wiki/canales/email-brevo]] — Email marketing a 863 contactos. Email #1 enviado (50.22% apertura, 1.29% CTR). Email #2 pendiente. `[2026-06-27]`
 - [[wiki/canales/b2b-outreach]] — Outreach directo a wedding planners para Bruselas. 21 mapeados, ~80 en campaña Brevo. `[2026-06-27]`
 
@@ -28,6 +29,7 @@ _Última actualización: 2026-06-27_
 - [[wiki/herramientas/creatorflow]] — Automatización de DM en Instagram por keyword "CLASE". Pendiente configurar. `[2026-06-27]`
 - [[wiki/herramientas/calendly]] — Sistema de reservas de clases. Corregido en junio 2026 después de 0 conversiones con setup anterior. `[2026-06-27]`
 - [[wiki/herramientas/brevo]] — Plataforma de email marketing. Plan Starter. Lista de 863 contactos. `[2026-06-27]`
+- [[wiki/herramientas/obs-zoom-clases]] — Setup técnico OBS + Zoom + VoiceMeeter para clases en línea con audio DAW. `[2026-06-28]`
 
 ---
 
@@ -66,6 +68,6 @@ _(vacío — se puebla con análisis cruzados y decisiones)_
 
 ---
 
-**Totales:** 1 fuente · 4 negocios · 4 canales · 3 herramientas · 1 lista de contactos · 13 conceptos · 0 síntesis
+**Totales:** 1 fuente · 4 negocios · 5 canales · 4 herramientas · 1 lista de contactos · 13 conceptos · 0 síntesis
 
 **Pendientes abiertos:** ~15 (ver `> ⚠️` en cada página)

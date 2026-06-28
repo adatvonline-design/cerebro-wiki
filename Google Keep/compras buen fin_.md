@@ -1,4 +1,0 @@
----
-aliases:
-  - "compras buen fin "
----
