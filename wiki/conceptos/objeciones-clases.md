@@ -16,7 +16,7 @@ La tasa de cierre es media — algunos prospectos se enfrían y dejan de respond
 
 La hipótesis principal de Ernesto es que es el **precio**, pero como no hay datos de seguimiento, no está confirmado.
 
-> ⚠️ Pendiente: Implementar registro de conversaciones en DM para saber cuántos prospectos llegan, cuántos responden, cuántos agendan en Calendly, cuántos pagan. Sin este embudo medido, las hipótesis sobre objeciones son intuiciones.
+> ✓ Sistema creado: [[wiki/herramientas/registro-conversaciones]] — Ernesto reporta conversaciones al agente y se mantiene tabla actualizada. Con 10+ registros se podrá confirmar o descartar cada hipótesis de objeción.
 
 ## Hipótesis de objeciones (sin confirmar)
 

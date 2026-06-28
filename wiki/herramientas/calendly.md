@@ -30,9 +30,37 @@ El Calendly original causó **0 conversiones** a pesar de que el Email #1 tenía
 
 Este caso ilustra el [[wiki/conceptos/principio-conversion|principio de conversión]]: siempre auditar el destino antes de culpar el tráfico o el copy.
 
-## Pendientes
+## Conflicto del link de bio — Evaluación de alternativas
 
-> ⚠️ Pendiente: Conflicto del link único de bio — actualmente lo ocupa Calendly, lo que bloquea lanzar el video de daftapp con CTA al link. Decidir solución (Linktree, página propia, alternativa).
+El único link de bio de @mercadoernesto está ocupado por Calendly. Esto bloquea cualquier CTA a daftapp, videos de YouTube, o futuras campañas que necesiten un destino propio.
+
+### Opciones evaluadas
+
+| Opción | Tiempo de setup | Costo | Aspecto | Control |
+|---|---|---|---|---|
+| **Beacons.ai** (recomendado) | < 30 min | Gratis | Diseñado para creadores, limpio en mobile | Alto — editable sin código |
+| Linktree | < 20 min | Gratis / $5 USD/mes Pro | Familiar pero genérico | Medio |
+| Página propia (GitHub Pages) | 1–2h | Gratis | Totalmente personalizado | Total — misma stack que daftapp |
+| Página Wix | 1–3h | Gratis / plan de pago | Profesional | Alto |
+
+### Recomendación: Beacons.ai
+
+**Por qué:**
+- Setup en < 30 minutos, sin código
+- Gratis en el plan base con analítica incluida
+- Diseñado específicamente para creadores de Instagram — se ve bien en mobile
+- Permite agregar bloques: Calendly, daftapp, YouTube, cualquier link futuro
+- No requiere mantener otro dominio ni hosting
+
+**Contra:**
+- No es dominio propio (URL tipo `beacons.ai/mercadoernesto`)
+- Depende de una plataforma externa
+
+**Migración futura:** cuando haya bandwidth, mover a página propia en GitHub Pages (mismo stack que daftapp, costo cero, dominio personalizable).
+
+> ⚠️ Pendiente: Crear cuenta en Beacons.ai, agregar bloque de Calendly (clases) y bloque de daftapp. Reemplazar link de bio con la nueva URL. Tiempo estimado: 30 min.
+
+Ver también: [[wiki/negocios/daftapp]] — análisis del mismo conflicto desde la perspectiva de daftapp.
 
 ## Conexiones
 - [[wiki/negocios/educacion-musical]] — embudo de clases

@@ -17,9 +17,11 @@ _Panorama del mercado de clases de guitarra particulares en Guadalajara._
 | Piso del mercado (Superprof mínimo) | $150–211 MXN/h |
 | Promedio del mercado | ~$250 MXN/h |
 | Techo del mercado | hasta $600 MXN/h |
-| **Ernesto (equivalente/hora)** | **~$720 MXN/h** (600 MXN por 50 min) |
+| **Ernesto (equivalente/hora)** | **$600 MXN/h** (600 MXN por 60 min — duración corregida en Calendly jun 2026) |
 
-> ✓ Dato clave: Ernesto está **por encima del techo visible del mercado en plataformas de directorio**. Está jugando en otra liga de precio — lo cual es viable, pero requiere que la propuesta de valor justifique el premium de forma explícita.
+> ✓ Dato clave: Ernesto está **en el techo visible del mercado en plataformas de directorio** (el máximo reportado también es ~$600/h). La diferencia no es de precio nominal sino de propuesta de valor — la misma tarifa horaria que el techo del mercado, pero con un perfil artístico y metodología cualitativamente diferentes.
+
+> ⚠️ Nota: cálculo anterior usaba 50 min (dato del sitio web desactualizado). Duración oficial: 60 min. El sitio web (ernestomercado.com.mx) necesita actualizar "50 min" a "60 min".
 
 **Total de profesores listados en Superprof GDL**: 166+ (dato junio 2026).
 

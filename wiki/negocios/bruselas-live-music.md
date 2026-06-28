@@ -43,7 +43,9 @@ Géneros: jazz, bossa nova, música francesa, manouche/gypsy-jazz (bajo **Nuages
 - Perfil en bodas.com.mx activo, ficha adaptada al producto real
 
 ### Pendientes activos
-> ⚠️ Pendiente: Implementar registro simple de conversaciones (fecha, canal, cerró sí/no, valor). Hoy Ernesto responde DMs/WhatsApp sin registrar origen ni resultado — el CRM es un agujero negro.
+> ✓ Sistema de registro creado: [[wiki/herramientas/registro-conversaciones]]. Ernesto reporta conversaciones al agente para mantener tabla actualizada.
+> ⚠️ Pendiente: Iniciar el registro — reportar la próxima conversación con planner o prospecto de boda.
+> ⚠️ Pendiente: Verificar reseñas actuales en bodas.com.mx (perfil activo). Requiere visita manual al perfil — confirmar si hay reseñas nuevas y si la ficha sigue actualizada.
 > ⚠️ Pendiente: Ampliar lista de wedding planners más allá de los 21 mapeados (tarea mecánica → delegar a VA/Fiverr).
 > ⚠️ Pendiente: Seguimiento a la campaña fría de Brevo (~80 planners).
 

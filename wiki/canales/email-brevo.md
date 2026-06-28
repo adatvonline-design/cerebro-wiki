@@ -24,11 +24,14 @@ _Canal de email marketing. Herramienta: Brevo (plan Starter). Lista de 863 conta
   - Causa 1: links de texto plano en vez de botón CTA visual
   - Causa 2: dos CTAs compitiendo (video daftapp + app daftapp)
 
-### Email #2 — Clase diagnóstica gratuita (pendiente)
-> ⚠️ Pendiente: Decidir y enviar Email #2 (clase diagnóstica gratuita de 25 min) a los 283 que abrieron Email #1.
-- CTA único: agendar clase diagnóstica gratuita
-- Botón visual en vez de link de texto plano
-- Sin CTAs dobles
+### Email #2 — Clase diagnóstica gratuita (borrador listo)
+
+- **Para:** segmento que abrió Email #1 (283 contactos)
+- **Asunto:** `Te regalo 25 minutos`
+- **CTA único:** botón visual → Calendly directo (no depende del link de bio)
+- **Borrador completo:** [[outputs/email-2-clase-diagnostica]]
+
+> ⚠️ Pendiente: Revisar borrador y enviar desde Brevo. El CTA va directo a Calendly — no hay conflicto con el link de bio.
 
 ### Campaña fría — Bruselas Live Music (enviada)
 - **Para**: ~80 wedding planners
@@ -41,11 +44,17 @@ _Canal de email marketing. Herramienta: Brevo (plan Starter). Lista de 863 conta
 > ✓ Confirmado: Alta tasa de apertura (50%) con bajo CTR (1.29%) = el copy del asunto funciona, pero el contenido del email no convierte. Problema en el cuerpo: links planos y CTAs duplicados.
 > ✓ Confirmado: Un solo CTA claro + botón visual es la corrección necesaria.
 
+## Segmentación de la lista
+
+La lista de 863 contactos fue cargada sin segmentación documentada. Pregunta abierta: ¿hay distinción entre contactos interesados en clases vs. daftapp?
+
+> ⚠️ Pendiente: Revisar en Brevo si existen atributos o etiquetas en los 863 contactos que permitan separar interés en clases vs. daftapp. Si no existe, considerar agregar un campo de interés en el siguiente email.
+
 ## Pendientes
 
-> ⚠️ Pendiente: Email #2 a 283 abrieron — clase diagnóstica gratuita, CTA único.
+> ⚠️ Pendiente: Email #2 — borrador listo en [[outputs/email-2-clase-diagnostica]]. Revisar y enviar.
 > ⚠️ Pendiente: Seguimiento a campaña de Bruselas (~80 planners).
-> ⚠️ Pendiente: Revisar si existe segmentación por interés (clases vs. daftapp) en la lista de 863.
+> ⚠️ Pendiente: Verificar segmentación clases vs. daftapp en la lista de 863.
 
 ## Conexiones
 - [[wiki/negocios/educacion-musical]] — Email #2 pendiente

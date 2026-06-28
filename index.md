@@ -1,7 +1,7 @@
 # Index — Cerebro Wiki (Ernesto Mercado)
 
 Catálogo completo del wiki de negocio. Actualizado después de cada ingest.
-_Última actualización: 2026-06-28_
+_Última actualización: 2026-06-28 (sesión 2)_
 
 ---
 
@@ -26,10 +26,11 @@ _Última actualización: 2026-06-28_
 
 ## Herramientas
 
-- [[wiki/herramientas/creatorflow]] — Automatización de DM en Instagram por keyword "CLASE". Pendiente configurar. `[2026-06-27]`
-- [[wiki/herramientas/calendly]] — Sistema de reservas de clases. Corregido en junio 2026 después de 0 conversiones con setup anterior. `[2026-06-27]`
+- [[wiki/herramientas/creatorflow]] — Automatización de DM en Instagram por keyword "CLASE". Pasos de conexión y config documentados. `[2026-06-28]`
+- [[wiki/herramientas/calendly]] — Sistema de reservas de clases. Conflicto link de bio evaluado — recomendación: Beacons.ai. `[2026-06-28]`
 - [[wiki/herramientas/brevo]] — Plataforma de email marketing. Plan Starter. Lista de 863 contactos. `[2026-06-27]`
 - [[wiki/herramientas/obs-zoom-clases]] — Setup técnico OBS + Zoom + VoiceMeeter para clases en línea con audio DAW. `[2026-06-28]`
+- [[wiki/herramientas/registro-conversaciones]] — Sistema de registro de DMs/WhatsApp para todos los canales. Tabla centralizada. `[2026-06-28]`
 
 ---
 
@@ -68,6 +69,6 @@ _(vacío — se puebla con análisis cruzados y decisiones)_
 
 ---
 
-**Totales:** 1 fuente · 4 negocios · 5 canales · 4 herramientas · 1 lista de contactos · 13 conceptos · 0 síntesis
+**Totales:** 1 fuente · 4 negocios · 5 canales · 5 herramientas · 1 lista de contactos · 13 conceptos · 0 síntesis · 1 output
 
-**Pendientes abiertos:** ~15 (ver `> ⚠️` en cada página)
+**Pendientes abiertos:** ~12 activos (6 resueltos/documentados en sesión 2026-06-28)

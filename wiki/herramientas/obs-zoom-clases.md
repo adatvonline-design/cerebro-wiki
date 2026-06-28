@@ -48,7 +48,7 @@ Para lograr 1080p en Zoom via OBS:
 
 ## Pendientes
 
-> ⚠️ Pendiente: Verificar setup con nueva configuración del estudio.
+> ⚠️ Pendiente: Verificar setup con nueva configuración del estudio — Ernesto debe confirmar: (1) OBS Virtual Camera se activa antes de abrir Zoom, (2) audio de Ableton llega limpio a Zoom sin feedback, (3) latencia de micrófono de cañón ajustada a ~200 ms. Reportar cualquier cambio en la arquitectura para actualizar esta página.
 
 ## Conexiones
 - [[wiki/negocios/educacion-musical]] — clases en línea como modalidad activa

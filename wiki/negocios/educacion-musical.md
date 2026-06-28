@@ -23,7 +23,7 @@ Modalidades: presencial en estudio en Guadalajara, o en línea.
 
 | Formato | Precio |
 |---|---|
-| Clase individual (60 min) | $600 MXN |
+| Clase individual (60 min) | $600 MXN | _(sitio web muestra 50 min — desactualizado. Unificar a 60 min en el sitio.)_ |
 | Paquete 5 clases | $2,500 MXN |
 | Promo activa | 6ª clase gratis para primeros 3 inscritos en paquete |
 

@@ -99,3 +99,34 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
   - [[wiki/herramientas/obs-zoom-clases]] — setup técnico OBS+Zoom+VoiceMeeter+Ableton para clases en línea
 - **Pendientes detectados**: Definir estrategia de distribución EMQ, cadencia YouTube, performance histórico del canal
 - **No ingresado** (fuera de scope del wiki): listas personales, películas, regalos, gastos domésticos, mensajes personales, calendarios de disponibilidad
+
+## [2026-06-28] ingest | Sesión de mantenimiento — 6 bloques de pendientes
+
+- **Fuente**: Instrucciones directas de Ernesto + contexto del wiki
+- **Páginas creadas**:
+  - [[wiki/herramientas/registro-conversaciones]] — sistema de registro de DMs/WhatsApp para todos los canales
+  - [[outputs/email-2-clase-diagnostica]] — borrador completo de Email #2 (clase diagnóstica gratuita, CTA único a Calendly)
+- **Páginas actualizadas**:
+  - [[wiki/herramientas/calendly]] — evaluación de alternativas al link de bio (Beacons.ai recomendado), pros/contras
+  - [[wiki/negocios/daftapp]] — recomendación de analítica (Plausible / Cloudflare Web Analytics), conflicto link de bio resuelto con referencia a Beacons.ai
+  - [[wiki/herramientas/creatorflow]] — pasos detallados para conectar cuenta, configurar Msg1/Msg3, y probar flujo completo
+  - [[wiki/canales/email-brevo]] — referencia a borrador Email #2, nota de segmentación clases vs. daftapp
+  - [[wiki/canales/b2b-outreach]] — referencia a registro-conversaciones
+  - [[wiki/conceptos/objeciones-clases]] — pendiente de registro marcado como resuelto con referencia al sistema
+  - [[wiki/negocios/bruselas-live-music]] — referencia a registro-conversaciones, pendiente bodas.com.mx documentado
+  - [[wiki/negocios/educacion-musical]] — nota de discrepancia duración en sitio web
+  - [[wiki/herramientas/obs-zoom-clases]] — pendiente de verificación de estudio detallado
+  - [[wiki/conceptos/competidores-clases-guitarra-gdl]] — corregido cálculo de precio/hora (50 min → 60 min; $720/h → $600/h)
+  - `index.md` — nueva herramienta agregada, totales actualizados
+- **Decisiones tomadas**:
+  - Link de bio: recomendación Beacons.ai (< 30 min setup, gratis, diseñado para creadores)
+  - Analítica daftapp: recomendación Plausible; alternativa gratis Cloudflare Web Analytics
+  - Email #2: asunto "Te regalo 25 minutos", CTA único a Calendly directo (sin conflicto con bio)
+  - Duración oficial de clase: **60 min** (Calendly corregido). Sitio web muestra 50 min — necesita actualización externa
+- **Pendientes detectados / confirmados**:
+  - Jorge Cárdenas en Superprof: sigue sin localizar (intentado sesión anterior)
+  - Reseñas bodas.com.mx: requiere verificación manual
+  - Setup OBS/Zoom nuevo estudio: requiere prueba de Ernesto
+  - Registro de conversaciones: primera entrada pendiente — Ernesto debe reportar próxima conversación
+  - Segmentación lista 863 (clases vs. daftapp): revisar en Brevo
+- **Corrección de error previo**: precio/hora de Ernesto recalculado a $600 MXN/h (no $720/h). El cálculo anterior usaba 50 min de clase en vez de 60 min.

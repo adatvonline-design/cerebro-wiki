@@ -45,7 +45,8 @@ Los wedding planners son gatekeepers de múltiples bodas por año. Un solo plann
 
 ## Pendientes
 
-> ⚠️ Pendiente: Registro simple de cada conversación (fecha, canal, cerró sí/no, valor). Hoy es un agujero negro.
+> ✓ Sistema de registro creado: [[wiki/herramientas/registro-conversaciones]] — Ernesto debe reportar conversaciones al agente para mantener la tabla actualizada.
+> ⚠️ Pendiente: Iniciar el registro — reportar la próxima conversación con un planner para arrancar la tabla.
 > ⚠️ Pendiente: Ampliar lista más allá de los 21 planners (delegar a VA/Fiverr).
 > ⚠️ Pendiente: Seguimiento a los ~80 de la campaña Brevo.
 > ⚠️ Pendiente: Explorar partnerships con venues de bodas en Guadalajara.
