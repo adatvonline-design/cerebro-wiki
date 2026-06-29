@@ -8,14 +8,18 @@ updated: 2026-06-27
 estado: activo
 ---
 
-# Bruselas Live Music
+# Bruselas Live Music (Páramo)
 _Conglomerado de proyectos de música en vivo para bodas, corporativos y eventos privados. Jazz, bossa nova, música francesa, brass band. Instagram: @bruselaslivemusic._
+
+**Dos nombres según el mercado**: **Páramo** — usado en cotizaciones y contratos; **Bruselas Live Music** — nombre comercial para el mercado de planners/venues.
 
 ## Qué es
 
 No es una banda fija — es un conglomerado de formatos y proyectos de música en vivo que Ernesto dirige:
 - Dueto voz/guitarra
 - Ensamble de jazz
+
+> **Nota (jun 2026):** "Bruselas" como dúo artístico (guitarra + voz, repertorio jazz/contemporáneo) tiene una dimensión artística propia separada de la banda de bodas. El nombre "Bruselas Live Music" agrupa ambas facetas comercialmente, pero el dúo artístico tiene objetivos de desarrollo propios. Ver [[wiki/negocios/nikan]] para el proyecto de composición original.
 - Brass band
 - Otros formatos según el evento
 
@@ -38,9 +42,16 @@ Géneros: jazz, bossa nova, música francesa, manouche/gypsy-jazz (bajo **Nuages
 - Archivo: `wedding_planners_guadalajara_seguimiento.xlsx`
 - Emails de outreach redactados (ES/EN): primer contacto sin precios, posicionándose como proveedor recomendado
 - Regla de seguimiento: 1 segundo toque a los 5–7 días si no hay respuesta; después, pasar a la siguiente cuenta
-- Campaña fría por [[wiki/herramientas/brevo|Brevo]] a ~80 wedding planners
+- **Email Brevo a ~80 planners**: programado para 2026-06-30 (mañana al momento de escribir esto)
+- **Campaña WhatsApp**: en curso esta semana a planners ya conocidos (warm outreach)
 - Dominio propio `bruselaslivemusic.com` (Namecheap), sender `info@bruselaslivemusic.com` verificado
-- Perfil en bodas.com.mx activo, ficha adaptada al producto real
+
+### bodas.mx — evaluado y descartado (jun 2026)
+- **Oferta recibida**: $18,000 MXN/año (descuento desde $24,000)
+- **Evaluación de Ernesto**: no es su nicho. La oferta de proveedores en la plataforma no coincide con el posicionamiento de Bruselas. Grupos aparentemente inactivos.
+- **Decisión**: no tomado. La señal del mercado (grupos inactivos, perfil de proveedor desalineado) no justifica el gasto.
+
+> ✓ Confirmado: bodas.mx descartado. El canal B2B directo (WhatsApp + Brevo a planners conocidos) es más eficiente y sin costo fijo.
 
 ### Pendientes activos
 > ✓ Sistema de registro creado: [[wiki/herramientas/registro-conversaciones]]. Ernesto reporta conversaciones al agente para mantener tabla actualizada.
@@ -87,4 +98,7 @@ Géneros: jazz, bossa nova, música francesa, manouche/gypsy-jazz (bajo **Nuages
 - [[wiki/canales/b2b-outreach]] — estrategia y emails de outreach
 - [[wiki/canales/meta-ads]] — reglas de pauta para Bruselas
 - [[wiki/herramientas/brevo]] — campaña fría a planners
-- [[wiki/conceptos/principio-conversion]] — principio rector
+- [[wiki/contratos/contrato-paramo]] — plantilla de contrato para bodas
+- [[wiki/herramientas/apps-propias]] — calculadora de cotizaciones (misma lógica que EMQ)
+- [[wiki/negocios/nuages]] — jazz manouche, uno de los formatos de Bruselas
+- [[wiki/areas/ventas/principio-conversion]] — principio rector

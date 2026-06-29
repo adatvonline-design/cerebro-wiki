@@ -4,6 +4,73 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 
 ---
 
+## [2026-06-29] query | Posicionamiento Bruselas con wedding planners en GDL
+- **Método**: STORM Research — 5 lentes en paralelo (Práctico, Académico, Escéptico, Economista, Estratega Digital)
+- **Páginas creadas**: [[wiki/synthesis/posicionamiento-bruselas-planners-gdl]]
+- **Reporte completo**: Drive → carpeta "STORM Research" → "STORM — Posicionamiento Bruselas con Planners GDL (2026-06-29)"
+- **Hallazgos clave**: mercado opera por referidos (no búsqueda fría); nicho sub-ocupado en GDL; Instagram es validación no descubrimiento; precio actual mal calibrado hacia abajo; Jazzette y MZ Jazz son únicos competidores directos
+- **Pendientes detectados**: ¿existe video de actuaciones reales para publicar? Acción urgente: optimizar @bruselaslivemusic antes del email de Brevo del 30 jun
+
+## [2026-06-29] corrección | Datos incorrectos detectados por Ernesto
+- **Origen del error**: datos del wiki construidos de fuentes ChatGPT 2024-2026 sin verificación contra el estado real actual
+- **Correcciones aplicadas**:
+  - `herramientas/creatorflow.md` — estado cambiado de "pendiente configurar" a "activo + campaña lanzada"
+  - `canales/email-brevo.md` — campaña Bruselas cambiada de "enviada" a "programada 2026-06-30"
+  - `negocios/nikan.md` — álbum cambiado de "en desarrollo" a "grabado (2025)", pendientes actualizados
+  - `wiki/estado-actual.md` — pulso, pendientes y recomendaciones REC-001 a REC-004 reescritos
+- **Datos confirmados como correctos por Ernesto**:
+  - CreatorFlow: activo, campaña lanzada ✓
+  - Link de bio: Calendly ✓
+  - Email Bruselas #1: NO enviado, programado para 2026-06-30
+  - Nikan: álbum grabado en 2025 (estado post-grabación pendiente confirmar)
+- **Pendiente sin resolver**: ¿en qué etapa está Nikan ahora? (mezcla / masterización / distribución / publicado)
+
+## [2026-06-29] restructure | Arquitectura de sesión para máxima calidad de output
+- **Acción**: Rediseño del flujo de sesión para priorizar calidad y memoria perpetua en consultas de negocio
+- **Cambios en CLAUDE.md**:
+  - Rol del agente ampliado: ahora incluye recomendar proactivamente y rastrear pendientes entre sesiones
+  - Inicio de sesión: `estado-actual.md` ahora es la primera lectura (antes era index.md)
+  - Nuevo flujo "Al terminar sesión": obligatorio actualizar estado-actual antes de cerrar
+  - `wiki/personal/` excluido explícitamente del flujo de sesiones de negocio
+- **Páginas creadas**: [[wiki/estado-actual]] — dashboard operativo con pulso por negocio, pendientes críticos, recomendaciones activas (REC-001 a REC-004), métricas
+- **Impacto**: cada sesión nueva arranca con el estado más reciente del sistema; recomendaciones persisten entre sesiones hasta resolverse
+
+## [2026-06-29] ingest | Documentos ChatGPT 2024–2026 (18 archivos)
+- **Fuente**: Carpeta `raw/chat gpt/` — 18 documentos .docx exportados de dos años de conversaciones con ChatGPT (2024–2026)
+- **Páginas creadas**:
+  - [[wiki/areas/perfil-profesional]] — identidad artística, filosofía creativa, valores, metodología
+  - [[wiki/negocios/nikan]] — proyecto de álbum colaborativo, máxima prioridad artística
+  - [[wiki/synthesis/roadmap-2026-2031]] — plan estratégico de 5 etapas (2026–2031)
+  - [[wiki/synthesis/analisis-estrategico-2026]] — DAFO integral de la situación profesional
+  - [[wiki/areas/sistema-operativo-personal]] — marco SMOP: filtros, clasificación de trabajo, prioridades
+  - [[wiki/personal/salud]] — antecedentes de salud (trompa de Eustaquio, extrasístoles)
+  - [[wiki/sources/chatgpt-docs-2024-2026]] — registro de fuente
+- **Páginas actualizadas**:
+  - [[wiki/canales/instagram-mercadoernesto]] — agregado dato ~12,000 seguidores
+  - [[wiki/negocios/bruselas-live-music]] — aclarada dimensión artística del dúo
+  - `index.md` — nuevas secciones: Personal, Synthesis, áreas de Identidad y estrategia
+- **Datos nuevos confirmados**:
+  - Instagram @mercadoernesto: ~12,000 seguidores (jun 2026)
+  - Nikan: álbum en desarrollo, prioridad muy alta, concepto de presencia/náhuatl
+  - Visión de largo plazo: composición para cine como prioridad 2
+  - Bruselas también funciona como dúo artístico (jazz/contemporáneo) además de banda de bodas
+- **Información NO integrada (posiblemente outdated)**:
+  - Detalles de hardware en EMKB-004 incompletos (faltaban CPU, RAM, GPU, DAW, etc.) — ya están en wiki/herramientas/equipo-computo con datos más recientes
+  - Configuraciones técnicas del estudio — wiki/herramientas/ ya las cubre con datos de sesiones más recientes
+  - Bitácora técnica de ChatGPT — wiki/problemas-resueltos ya tiene la información actualizada
+- **Pendientes detectados**:
+  - Definir músicos colaboradores para Nikan
+  - Completar inventario técnico en herramientas/equipo-computo (CPU, RAM, GPU, DAW, plugins)
+  - Verificar seguidores actuales en Instagram (dato ChatGPT puede estar desactualizado)
+- **Notas**: Se creó carpeta `wiki/personal/` nueva para background personal no relacionado con negocios. El schema de CLAUDE.md no la incluía; puede formalizarse si el vault crece en esta dirección.
+
+## [2026-06-28] restructure | Reorganización de carpetas
+- **Acción**: Reestructuración del wiki para mayor claridad por negocio
+- **Carpetas creadas**: `wiki/negocios/educacion-musical/`, `wiki/negocios/bruselas/`, `wiki/areas/ventas/`, `wiki/areas/marketing/`
+- **Archivos movidos**: conceptos específicos de cada negocio → subcarpeta del negocio correspondiente; conceptos cross-proyecto → `areas/`; wedding-planners → `negocios/bruselas/`
+- **Archivos actualizados**: `index.md` (rutas y estructura), `CLAUDE.md` (diagrama de carpetas y convenciones)
+- **Regla nueva**: concepto de 1 negocio → `negocios/[negocio]/`; concepto de 2+ negocios → `areas/`
+
 ## [2026-06-27] setup | Inicialización del wiki
 - **Acción**: Creación de la estructura base del wiki
 - **Archivos creados**: `CLAUDE.md`, `index.md`, `log.md`
@@ -77,6 +144,53 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 - **Pendientes detectados**: ~15 ítems marcados con `> ⚠️` distribuidos en varias páginas
 - **Notas**: Ingest fundacional. El wiki parte con una base sólida de contexto real, métricas y configuraciones actuales.
 
+## [2026-06-29] ingest | Paquete cerebro-notas.zip — chats anteriores al 13 jun 2026
+
+- **Fuente**: paquete de notas generado con Claude.ai a partir de historial de chats (anteriores al 13 jun 2026). Extraído de `~/Downloads/cerebro-notas.zip`.
+- **Páginas creadas**:
+  - [[wiki/negocios/emq-studio]] — construcción y tratamiento acústico del estudio (cotizaciones carpinteros, paredes A/C/D, paneles móviles)
+  - [[wiki/negocios/nau-music-lab]] — estudio boutique de producción, servicios y tarifas
+  - [[wiki/negocios/nuages]] — jazz manouche, problema de identidad en streaming, recomendación DistroKid
+  - [[wiki/herramientas/equipo-computo]] — specs completos PC de escritorio (MSI Z590, i7-11700K, XMP, UPS, backups) y Dell Latitude 5420
+  - [[wiki/herramientas/cadena-audio]] — iD14 MkII, WA73-EQ, Distressor EL8, POD Go, Boss RC-500, Apollo Twin X en evaluación
+  - [[wiki/herramientas/camara-gimbal]] — Sony ZV-E10 + Sigma 30mm; Crane M3 dañado; DJI RS 3 Mini recomendado; Zoom H4n Pro
+  - [[wiki/herramientas/apps-propias]] — Estudio Rítmico, calculadora de giras EMQ/Páramo, curso de armonía moderna (lead magnet), dictado por voz (FasterWhisper)
+  - [[wiki/contratos/contrato-paramo]] — plantilla performance agreement en inglés (primera boda: Punta Mita, mayo 2026)
+  - [[wiki/contratos/contrato-renta-colonias]] — renta Colonias 457, $6,700/mes, vigencia mar 2026–mar 2027, 3 cláusulas de riesgo
+  - [[wiki/contratos/technical-rider-emq]] — 13 canales, 5 monitores, stage plot, hospitalidad
+  - [[wiki/conceptos/aislamiento-acustico]] — masa-aire-masa, MLV, ruido de impacto, ANC, resonancias de cavidad
+  - [[wiki/conceptos/diagnostico-ruido-electrico]] — caso 60 Hz: UPS onda simulada → USB → iD14. Aislador ADuM3165. Estado al 4 jun 2026
+  - [[wiki/conceptos/compatibilidad-thunderbolt]] — MSI Z590-A PRO: ThunderboltM4 8K (oficial) vs. Gigabyte GC-Titan Ridge 2.0 (hack)
+  - [[wiki/problemas-resueltos/problemas-tecnicos]] — tabla completa diagnóstico → solución → estado (11 problemas)
+- **Páginas actualizadas**:
+  - [[wiki/negocios/emq]] — roadie (+1, total 6 en gira), documentación de producción, refs a Drive (historial cotizaciones EMQ v2)
+  - [[wiki/negocios/bruselas-live-music]] — nombre dual Páramo/Bruselas documentado, refs a contrato y calculadora
+  - [[wiki/negocios/educacion-musical]] — 9 alumnos presenciales (mar 2026), MailerLite 2,500 contactos, Udemy activo, plataformas internacionales, pendiente alumnos angloparlantes
+  - [[wiki/canales/instagram-mercadoernesto]] — análisis 12 publicaciones (mar–jun 2026), embudo 3 capas, configuración Meta Ads recomendada, exportación CSV
+  - [[wiki/canales/email-brevo]] — dos listas documentadas (MailerLite 2,500 + Brevo 863), secuencia MailerLite propuesta, infraestructura Bruselas
+- **Pendientes detectados**:
+  - Coche: shortlist Toyota Yaris / Nissan Versa / Honda Fit / Kia Rio / Nissan Sentra (~$170k MXN). MG ZS y BYD descartados
+  - Apollo Twin X: decidir entre Thunderbolt (con add-on) vs. versión USB
+  - Aislador USB ADuM3165: compra pendiente (pero el diagnóstico de ruido puede haber cambiado)
+  - Gimbal DJI RS 3 Mini: compra pendiente
+  - DistroKid para Nuages: migración pendiente
+  - Aclarar fórmula de luz en contrato de renta Colonias 457
+- **NO ingresado**: carpeta `personal/` del zip — ver abajo para decisión pendiente
+- **Nota de alcance**: todo el paquete viene de chats anteriores al 13 jun 2026. Al menos el diagnóstico del ruido eléctrico cambió en sesión posterior ("ruido USB" → "ground loop analógico"). Verificar antes de actuar sobre la tabla de problemas.
+
+## [2026-06-29] ingest | Actualización ruido eléctrico — hub USB instalado
+
+- **Fuente**: confirmación directa de Ernesto
+- **Dato nuevo**: el hub USB redujo el ruido pero no lo eliminó → confirma dos fuentes simultáneas: (1) componente USB parcialmente resuelta por el hub, (2) ground loop analógico en la cadena XLR/línea aún sin resolver
+- **Páginas actualizadas**:
+  - [[wiki/conceptos/diagnostico-ruido-electrico]] — resultado real del hub, hipótesis de dos fuentes, próximos pasos para aislar el componente analógico
+  - [[wiki/problemas-resueltos/problemas-tecnicos]] — estado actualizado a "parcialmente resuelto"
+
+## [2026-06-29] decisión | personal/ — pendiente de confirmación del usuario
+
+- **Contenido**: datos de identificación, salud (composición corporal, suplementos, consultas médicas) y relación de pareja
+- **Estado**: NO subida al repo. El usuario debe decidir: (a) excluir del repo, (b) agregar a `.gitignore` local, o (c) rama separada sin push a GitHub
+
 ## [2026-06-28] organización | Clasificación y limpieza de notas Google Keep
 
 - **Acción**: Clasificación automática de 1,513 notas de Google Keep con script Python por keywords
@@ -87,6 +201,16 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
   - `Google Keep/herramientas/` — 1 nota (guía Sony ZV-E10 + gimbal)
   - `Google Keep/archivo/` — 1,042 notas (triviales, completadas, personales, sin clasificar)
 - **Ningún archivo borrado** — solo reorganización en subcarpetas
+
+## [2026-06-29] ingest | Plantilla WhatsApp Páramo y Nuages para planners
+
+- **Fuente**: Conversación directa — plantilla aprobada por Ernesto
+- **Páginas creadas**:
+  - [[wiki/canales/whatsapp-planners-paramo-nuages]] — plantilla de dos pasos para contactar planners con quienes ya se trabajó, ofreciendo Páramo (tipo Hermanos Gutiérrez) y Nuages (jazz manouche y música francesa)
+- **Páginas actualizadas**: `index.md`
+- **Notas**: Estructura de dos pasos validada (esperar respuesta antes del pitch). Videos obligatorios como cierre.
+
+---
 
 ## [2026-06-28] ingest | Notas Google Keep → wiki
 
