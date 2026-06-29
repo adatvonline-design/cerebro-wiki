@@ -1,14 +1,15 @@
 # Index — Cerebro Wiki (Ernesto Mercado)
 
 Catálogo completo del wiki de negocio. Actualizado después de cada ingest.
-_Última actualización: 2026-06-28_
+_Última actualización: 2026-06-29_
 
 ---
 
 ## Negocios
 
 ### Educación Musical (Nau Music Lab / @mercadoernesto)
-- [[wiki/negocios/educacion-musical]] — Clases 1:1 de guitarra/armonía/composición. Meta urgente: 12 alumnos nuevos. `[2026-06-27]`
+- [[wiki/negocios/educacion-musical]] — Clases 1:1 de guitarra/armonía/composición. 9 alumnos presenciales. Meta urgente: 12 nuevos. Udemy activo. MailerLite 2,500 contactos. `[2026-06-29]`
+- [[wiki/negocios/nau-music-lab]] — Estudio boutique de producción musical. Servicios: producción $18k, sesión $3k, voice over $4.5k. `[2026-06-29]`
 - [[wiki/negocios/educacion-musical/icp]] — Adulto 25–45, trabaja, hobbie. Busca progreso + espacio propio + comunidad. `[2026-06-27]`
 - [[wiki/negocios/educacion-musical/diferenciadores]] — Artista activo, paciencia, efecto terapéutico, comunidad fuera de clase. `[2026-06-27]`
 - [[wiki/negocios/educacion-musical/objeciones]] — Ghosting probable por confianza/timing, no precio. Clase diagnóstica gratuita como solución. `[2026-06-27]`
@@ -16,14 +17,16 @@ _Última actualización: 2026-06-28_
 - [[wiki/negocios/educacion-musical/testimonios]] — 10+ testimonios del sitio web. David Ascencio: de cero a disquera en 4–5 meses. `[2026-06-27]`
 - [[wiki/negocios/educacion-musical/competidores]] — 166+ profesores en Superprof GDL. Promedio $250/h. Ernesto está 2.9x el mercado. `[2026-06-27]`
 
-### Bruselas Live Music (@bruselaslivemusic)
-- [[wiki/negocios/bruselas-live-music]] — Música en vivo para bodas y eventos. Canal preferido: B2B wedding planners. `[2026-06-27]`
+### Bruselas Live Music / Páramo (@bruselaslivemusic)
+- [[wiki/negocios/bruselas-live-music]] — Música en vivo para bodas y eventos. Dos nombres: Páramo (contratos) / Bruselas Live Music (mercado). Canal preferido: B2B wedding planners. `[2026-06-29]`
 - [[wiki/negocios/bruselas/icp]] — Bodas modernas de nicho: jazz, bossa nova, Páramo-style, música francesa. `[2026-06-27]`
 - [[wiki/negocios/bruselas/competidores]] — Loretta (genérico/$3,700), Jazzette (agencia/2014), MZ Jazz (jazz elegante). Nadie ocupa el nicho Páramo. `[2026-06-27]`
 - [[wiki/negocios/bruselas/wedding-planners]] — Lista de 21 planners en GDL/Zapopan/Tlaquepaque con datos de contacto. `[2026-06-27]`
+- [[wiki/negocios/nuages]] — Banda de jazz manouche. Problema de identidad duplicada en streaming. Recomendación: DistroKid. `[2026-06-29]`
 
 ### EMQ (Ernesto Mercado Quintet)
-- [[wiki/negocios/emq]] — Jazz contemporáneo. Alineación: Eli (sax), Freedy (bajo), Shatter (piano), Guillermo (bat). `[2026-06-28]`
+- [[wiki/negocios/emq]] — Jazz contemporáneo. Alineación: Eli (sax), Freedy (bajo), Shatter (piano), Guillermo (bat). +1 roadie = 6 en gira. `[2026-06-29]`
+- [[wiki/negocios/emq-studio]] — Espacio de clases/video/grabación en Colonias 457. Tratamiento acústico en construcción por fases. `[2026-06-29]`
 
 ### daftapp
 - [[wiki/negocios/daftapp]] — Web app de progresiones de acordes en GitHub Pages. Distribución pendiente. `[2026-06-27]`
@@ -45,9 +48,9 @@ _Última actualización: 2026-06-28_
 ## Canales
 
 - [[wiki/canales/meta-ads]] — Pauta en Instagram/Facebook. Regla universal: objetivo Interacción + keyword, nunca Mensajes. `[2026-06-27]`
-- [[wiki/canales/instagram-mercadoernesto]] — Canal orgánico principal de educación. Datos: educativo convierte 8× más que viral. Métricas dic. 2025 agregadas. `[2026-06-28]`
+- [[wiki/canales/instagram-mercadoernesto]] — Canal orgánico principal de educación. Fórmula de reels confirmada. Embudo 3 capas documentado. `[2026-06-29]`
 - [[wiki/canales/youtube-mercadoernesto]] — Canal YouTube educativo. Video acordes aumentados: 8.26% CTR, 1,145 vistas en 4h. `[2026-06-28]`
-- [[wiki/canales/email-brevo]] — Email marketing a 863 contactos. Email #1 enviado (50.22% apertura, 1.29% CTR). Email #2 pendiente. `[2026-06-27]`
+- [[wiki/canales/email-brevo]] — Dos listas: MailerLite 2,500 (clases) + Brevo 863 (Email #1 enviado, 50.22% apertura). `[2026-06-29]`
 - [[wiki/canales/b2b-outreach]] — Outreach directo a wedding planners para Bruselas. 21 mapeados, ~80 en campaña Brevo. `[2026-06-27]`
 
 ---
@@ -58,6 +61,32 @@ _Última actualización: 2026-06-28_
 - [[wiki/herramientas/calendly]] — Sistema de reservas de clases. Corregido en junio 2026 después de 0 conversiones con setup anterior. `[2026-06-27]`
 - [[wiki/herramientas/brevo]] — Plataforma de email marketing. Plan Starter. Lista de 863 contactos. `[2026-06-27]`
 - [[wiki/herramientas/obs-zoom-clases]] — Setup técnico OBS + Zoom + VoiceMeeter para clases en línea con audio DAW. `[2026-06-28]`
+- [[wiki/herramientas/equipo-computo]] — PC de escritorio EMQ Studio (i7-11700K, MSI Z590-A PRO) y Dell Latitude 5420. `[2026-06-29]`
+- [[wiki/herramientas/cadena-audio]] — iD14 MkII + WA73-EQ + Distressor EL8. Problema de ruido 60 Hz activo. `[2026-06-29]`
+- [[wiki/herramientas/camara-gimbal]] — Sony ZV-E10 + Sigma 30mm. Gimbal Crane M3 dañado; recomendado DJI RS 3 Mini. `[2026-06-29]`
+- [[wiki/herramientas/apps-propias]] — Estudio Rítmico, daftapp, calculadora de giras, dictado por voz, lead magnet armonía. `[2026-06-29]`
+
+---
+
+## Contratos
+
+- [[wiki/contratos/contrato-paramo]] — Plantilla de performance agreement para bodas y eventos. Primera boda: Punta Mita, mayo 2026. `[2026-06-29]`
+- [[wiki/contratos/contrato-renta-colonias]] — Renta Colonias 457, Col. Americana. $6,700/mes. Vigencia mar 2026 – mar 2027. `[2026-06-29]`
+- [[wiki/contratos/technical-rider-emq]] — Rider EMQ: 13 canales, 5 mezclas monitor, hospitalidad. `[2026-06-29]`
+
+---
+
+## Conceptos
+
+- [[wiki/conceptos/aislamiento-acustico]] — Principios reutilizables: masa-aire-masa, MLV, ruido de impacto, ANC a escala de habitación. `[2026-06-29]`
+- [[wiki/conceptos/diagnostico-ruido-electrico]] — Caso 60 Hz EMQ Studio: UPS onda simulada → USB → iD14. Estado al 4 jun 2026 (evolucionó después). `[2026-06-29]`
+- [[wiki/conceptos/compatibilidad-thunderbolt]] — MSI Z590-A PRO: dos rutas para Thunderbolt (MSI ThunderboltM4 8K o hack Gigabyte GC-Titan Ridge). `[2026-06-29]`
+
+---
+
+## Problemas resueltos
+
+- [[wiki/problemas-resueltos/problemas-tecnicos]] — Tabla diagnóstico → solución → estado de todos los problemas técnicos tratados. `[2026-06-29]`
 
 ---
 
@@ -73,6 +102,6 @@ _(vacío — se puebla con análisis cruzados y decisiones)_
 
 ---
 
-**Totales:** 1 fuente · 4 negocios · 4 áreas · 5 canales · 4 herramientas · 0 síntesis
+**Totales:** 1 fuente · 5 negocios principales · 4 áreas · 5 canales · 8 herramientas · 3 contratos · 3 conceptos · 1 problemas-resueltos · 0 síntesis
 
-**Pendientes abiertos:** ~15 (ver `> ⚠️` en cada página)
+**Pendientes abiertos:** ~25 (ver `> ⚠️` en cada página)

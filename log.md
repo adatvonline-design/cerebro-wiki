@@ -84,6 +84,45 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 - **Pendientes detectados**: ~15 ítems marcados con `> ⚠️` distribuidos en varias páginas
 - **Notas**: Ingest fundacional. El wiki parte con una base sólida de contexto real, métricas y configuraciones actuales.
 
+## [2026-06-29] ingest | Paquete cerebro-notas.zip — chats anteriores al 13 jun 2026
+
+- **Fuente**: paquete de notas generado con Claude.ai a partir de historial de chats (anteriores al 13 jun 2026). Extraído de `~/Downloads/cerebro-notas.zip`.
+- **Páginas creadas**:
+  - [[wiki/negocios/emq-studio]] — construcción y tratamiento acústico del estudio (cotizaciones carpinteros, paredes A/C/D, paneles móviles)
+  - [[wiki/negocios/nau-music-lab]] — estudio boutique de producción, servicios y tarifas
+  - [[wiki/negocios/nuages]] — jazz manouche, problema de identidad en streaming, recomendación DistroKid
+  - [[wiki/herramientas/equipo-computo]] — specs completos PC de escritorio (MSI Z590, i7-11700K, XMP, UPS, backups) y Dell Latitude 5420
+  - [[wiki/herramientas/cadena-audio]] — iD14 MkII, WA73-EQ, Distressor EL8, POD Go, Boss RC-500, Apollo Twin X en evaluación
+  - [[wiki/herramientas/camara-gimbal]] — Sony ZV-E10 + Sigma 30mm; Crane M3 dañado; DJI RS 3 Mini recomendado; Zoom H4n Pro
+  - [[wiki/herramientas/apps-propias]] — Estudio Rítmico, calculadora de giras EMQ/Páramo, curso de armonía moderna (lead magnet), dictado por voz (FasterWhisper)
+  - [[wiki/contratos/contrato-paramo]] — plantilla performance agreement en inglés (primera boda: Punta Mita, mayo 2026)
+  - [[wiki/contratos/contrato-renta-colonias]] — renta Colonias 457, $6,700/mes, vigencia mar 2026–mar 2027, 3 cláusulas de riesgo
+  - [[wiki/contratos/technical-rider-emq]] — 13 canales, 5 monitores, stage plot, hospitalidad
+  - [[wiki/conceptos/aislamiento-acustico]] — masa-aire-masa, MLV, ruido de impacto, ANC, resonancias de cavidad
+  - [[wiki/conceptos/diagnostico-ruido-electrico]] — caso 60 Hz: UPS onda simulada → USB → iD14. Aislador ADuM3165. Estado al 4 jun 2026
+  - [[wiki/conceptos/compatibilidad-thunderbolt]] — MSI Z590-A PRO: ThunderboltM4 8K (oficial) vs. Gigabyte GC-Titan Ridge 2.0 (hack)
+  - [[wiki/problemas-resueltos/problemas-tecnicos]] — tabla completa diagnóstico → solución → estado (11 problemas)
+- **Páginas actualizadas**:
+  - [[wiki/negocios/emq]] — roadie (+1, total 6 en gira), documentación de producción, refs a Drive (historial cotizaciones EMQ v2)
+  - [[wiki/negocios/bruselas-live-music]] — nombre dual Páramo/Bruselas documentado, refs a contrato y calculadora
+  - [[wiki/negocios/educacion-musical]] — 9 alumnos presenciales (mar 2026), MailerLite 2,500 contactos, Udemy activo, plataformas internacionales, pendiente alumnos angloparlantes
+  - [[wiki/canales/instagram-mercadoernesto]] — análisis 12 publicaciones (mar–jun 2026), embudo 3 capas, configuración Meta Ads recomendada, exportación CSV
+  - [[wiki/canales/email-brevo]] — dos listas documentadas (MailerLite 2,500 + Brevo 863), secuencia MailerLite propuesta, infraestructura Bruselas
+- **Pendientes detectados**:
+  - Coche: shortlist Toyota Yaris / Nissan Versa / Honda Fit / Kia Rio / Nissan Sentra (~$170k MXN). MG ZS y BYD descartados
+  - Apollo Twin X: decidir entre Thunderbolt (con add-on) vs. versión USB
+  - Aislador USB ADuM3165: compra pendiente (pero el diagnóstico de ruido puede haber cambiado)
+  - Gimbal DJI RS 3 Mini: compra pendiente
+  - DistroKid para Nuages: migración pendiente
+  - Aclarar fórmula de luz en contrato de renta Colonias 457
+- **NO ingresado**: carpeta `personal/` del zip — ver abajo para decisión pendiente
+- **Nota de alcance**: todo el paquete viene de chats anteriores al 13 jun 2026. Al menos el diagnóstico del ruido eléctrico cambió en sesión posterior ("ruido USB" → "ground loop analógico"). Verificar antes de actuar sobre la tabla de problemas.
+
+## [2026-06-29] decisión | personal/ — pendiente de confirmación del usuario
+
+- **Contenido**: datos de identificación, salud (composición corporal, suplementos, consultas médicas) y relación de pareja
+- **Estado**: NO subida al repo. El usuario debe decidir: (a) excluir del repo, (b) agregar a `.gitignore` local, o (c) rama separada sin push a GitHub
+
 ## [2026-06-28] organización | Clasificación y limpieza de notas Google Keep
 
 - **Acción**: Clasificación automática de 1,513 notas de Google Keep con script Python por keywords

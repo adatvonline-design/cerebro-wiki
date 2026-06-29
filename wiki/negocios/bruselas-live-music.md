@@ -8,8 +8,10 @@ updated: 2026-06-27
 estado: activo
 ---
 
-# Bruselas Live Music
+# Bruselas Live Music (Páramo)
 _Conglomerado de proyectos de música en vivo para bodas, corporativos y eventos privados. Jazz, bossa nova, música francesa, brass band. Instagram: @bruselaslivemusic._
+
+**Dos nombres según el mercado**: **Páramo** — usado en cotizaciones y contratos; **Bruselas Live Music** — nombre comercial para el mercado de planners/venues.
 
 ## Qué es
 
@@ -85,4 +87,7 @@ Géneros: jazz, bossa nova, música francesa, manouche/gypsy-jazz (bajo **Nuages
 - [[wiki/canales/b2b-outreach]] — estrategia y emails de outreach
 - [[wiki/canales/meta-ads]] — reglas de pauta para Bruselas
 - [[wiki/herramientas/brevo]] — campaña fría a planners
-- [[wiki/conceptos/principio-conversion]] — principio rector
+- [[wiki/contratos/contrato-paramo]] — plantilla de contrato para bodas
+- [[wiki/herramientas/apps-propias]] — calculadora de cotizaciones (misma lógica que EMQ)
+- [[wiki/negocios/nuages]] — jazz manouche, uno de los formatos de Bruselas
+- [[wiki/areas/ventas/principio-conversion]] — principio rector

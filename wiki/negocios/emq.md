@@ -26,6 +26,13 @@ Banda de jazz de Ernesto con composiciones originales. Proyecto compositivo y ar
 | Bajo | Freedy Adrian |
 | Piano | Luis Shatter |
 | Batería | Guillermo Núñez |
+| Roadie | +1 (total **6 personas en gira**) |
+
+## Documentación de producción
+
+- [[wiki/contratos/technical-rider-emq]] — 13 canales de entrada, 5 mezclas de monitor, backline, hospitalidad, espacio para cámara
+- [[wiki/herramientas/apps-propias]] — calculadora de cotizaciones de giras. Historial: Google Sheet **"Historial Cotizaciones EMQ v2"** (Drive ID: `1KEVOIJm7kHZRKjZvgG6lv1Pmcem0nThqlKG6Sv-eg6s`)
+- Referencia de cotización original: "cotizacion de beckett 29 nov" (Drive ID: `16QyXD5p6kHozilmD3nkP-0zZ_8xOa8tt5PWJBMW8YNo`)
 
 ## Presencia digital
 
@@ -42,4 +49,7 @@ Banda de jazz de Ernesto con composiciones originales. Proyecto compositivo y ar
 
 ## Conexiones
 - [[wiki/negocios/bruselas-live-music]] — distinción importante: EMQ es artístico, Bruselas es comercial
+- [[wiki/negocios/emq-studio]] — espacio físico del proyecto
+- [[wiki/contratos/technical-rider-emq]] — rider técnico para live
+- [[wiki/herramientas/cadena-audio]] — equipamiento de audio
 - [[wiki/negocios/educacion-musical]] — la credibilidad artística de EMQ apoya la propuesta de clases

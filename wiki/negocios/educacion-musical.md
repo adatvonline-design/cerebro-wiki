@@ -15,7 +15,7 @@ _Clases 1:1 de guitarra, armonía, improvisación, composición y producción. O
 
 Dos cuentas de Instagram, misma oferta, distinto ángulo:
 - **@mercadoernesto** — ángulo guitarrista/artista. Contenido educativo.
-- **[[wiki/negocios/nau-music-lab|Nau Music Lab]]** — ángulo estudio, producción, armonía y composición.
+- **[[wiki/negocios/nau-music-lab]]** — ángulo estudio, producción, armonía y composición.
 
 Modalidades: presencial en estudio en Guadalajara, o en línea.
 
@@ -27,7 +27,11 @@ Modalidades: presencial en estudio en Guadalajara, o en línea.
 | Paquete 5 clases | $2,500 MXN |
 | Promo activa | 6ª clase gratis para primeros 3 inscritos en paquete |
 
-## Estado actual
+## Estado actual (referencia: marzo 2026)
+
+- **9 alumnos presenciales** a ≈$475 MXN/hora
+- **Curso en Udemy**: "Teoría Musical para Componer" (activo)
+- **Lista de correo**: ≈2,500 contactos en **MailerLite** (distinta de la lista de 863 en Brevo)
 
 **Meta urgente:** cerrar ~12 alumnos nuevos. La brecha se genera por un contrato de producción que termina en 1–2 meses.
 
@@ -90,6 +94,22 @@ Herramienta elegida: [[wiki/herramientas/creatorflow|CreatorFlow]] (sobre ManyCh
 - Msg2: respuesta manual de Ernesto (24–48h)
 - Msg3: seguimiento automático
 - **Email gate explícitamente rechazado**: crea fricción en el momento de mayor intención de compra
+
+## Expansión internacional
+
+Plataformas evaluadas para alumnos angloparlantes:
+
+| Plataforma | Para qué |
+|---|---|
+| TrueFire | Referencia de prestigio para guitarristas serios |
+| Teachable / Kajabi | Escuela propia con dominio y email marketing — recomendada a 3–5 años |
+| Lessonface | Clases 1-a-1 en vivo, perfil público |
+| ArtistWork | Intercambio de video (alumno graba, recibe feedback en video) |
+| TIL | Clases en vivo tipo Zoom con instructores profesionales |
+
+CV traducido al inglés disponible para usar en estos perfiles (biografía, experiencia docente, formación, discografía).
+
+> ⚠️ Pendiente: Atraer alumnos angloparlantes/internacionales — aprovechar la trayectoria internacional.
 
 ## Aprendizajes clave
 

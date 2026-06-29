@@ -10,9 +10,18 @@ updated: 2026-06-27
 # Email Marketing — Brevo
 _Canal de email marketing. Herramienta: Brevo (plan Starter). Lista de 863 contactos compartida entre educación musical y daftapp._
 
-## Estado de la lista
+## Listas de correo (dos listas distintas)
 
-- **Total de contactos**: 863 (limpiada y cargada ✓)
+| Lista | Plataforma | Contactos | Para qué |
+|---|---|---|---|
+| Lista clases/@mercadoernesto | **MailerLite** | ≈2,500 contactos | Secuencia de conversión para clases 1:1 y cursos digitales |
+| Lista Brevo (limpiada) | **Brevo** | 863 contactos | Email #1 enviado; campaña fría Bruselas |
+
+> ⚠️ Las dos listas son independientes y tienen propósitos distintos — no mezclar.
+
+### Lista Brevo: segmento activo
+
+- **Total**: 863 contactos (limpiada y cargada ✓)
 - **Segmento activo (Email #1)**: 283 contactos que abrieron Email #1
 
 ## Campañas activas
@@ -47,9 +56,23 @@ _Canal de email marketing. Herramienta: Brevo (plan Starter). Lista de 863 conta
 > ⚠️ Pendiente: Seguimiento a campaña de Bruselas (~80 planners).
 > ⚠️ Pendiente: Revisar si existe segmentación por interés (clases vs. daftapp) en la lista de 863.
 
+## Secuencia MailerLite (lista clases — propuesta)
+
+Secuencia de 3 emails para los ≈2,500 contactos:
+1. Reactivación con valor gratuito
+2. Historia personal y autoridad
+3. Oferta directa con escasez de cupos
+
+## Infraestructura Brevo (campaña Bruselas)
+
+- Dominio: **bruselaslivemusic.com** (Namecheap)
+- Sender verificado: info@bruselaslivemusic.com (DKIM/SPF configurados)
+- ⚠️ No enviar campañas desde Gmail: límite de 500 destinatarios/día y peor entregabilidad
+- Alternativa de email: Zoho Mail gratuito o el email incluido por Namecheap
+
 ## Conexiones
-- [[wiki/negocios/educacion-musical]] — Email #2 pendiente
+- [[wiki/negocios/educacion-musical]] — Email #2 pendiente + lista MailerLite
 - [[wiki/negocios/daftapp]] — causa del CTA doble en Email #1
 - [[wiki/negocios/bruselas-live-music]] — campaña fría a planners
 - [[wiki/herramientas/brevo]] — configuración técnica
-- [[wiki/conceptos/principio-conversion]] — alta apertura no es suficiente; conversión es lo que importa
+- [[wiki/areas/ventas/principio-conversion]] — alta apertura no es suficiente; conversión es lo que importa
