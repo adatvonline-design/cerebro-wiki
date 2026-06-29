@@ -118,6 +118,14 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 - **NO ingresado**: carpeta `personal/` del zip — ver abajo para decisión pendiente
 - **Nota de alcance**: todo el paquete viene de chats anteriores al 13 jun 2026. Al menos el diagnóstico del ruido eléctrico cambió en sesión posterior ("ruido USB" → "ground loop analógico"). Verificar antes de actuar sobre la tabla de problemas.
 
+## [2026-06-29] ingest | Actualización ruido eléctrico — hub USB instalado
+
+- **Fuente**: confirmación directa de Ernesto
+- **Dato nuevo**: el hub USB redujo el ruido pero no lo eliminó → confirma dos fuentes simultáneas: (1) componente USB parcialmente resuelta por el hub, (2) ground loop analógico en la cadena XLR/línea aún sin resolver
+- **Páginas actualizadas**:
+  - [[wiki/conceptos/diagnostico-ruido-electrico]] — resultado real del hub, hipótesis de dos fuentes, próximos pasos para aislar el componente analógico
+  - [[wiki/problemas-resueltos/problemas-tecnicos]] — estado actualizado a "parcialmente resuelto"
+
 ## [2026-06-29] decisión | personal/ — pendiente de confirmación del usuario
 
 - **Contenido**: datos de identificación, salud (composición corporal, suplementos, consultas médicas) y relación de pareja

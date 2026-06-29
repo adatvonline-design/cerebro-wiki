@@ -21,13 +21,27 @@ _Metodología y caso específico del EMQ Studio. El diagnóstico evolucionó des
 3. **Conclusión**: el UPS mismo (onda sinusoidal simulada / modified sine wave) genera la interferencia en su propio circuito de carga/regulación
 4. Como el iD14 es bus-powered, el ruido viaja: **AC sucia → UPS → PSU de la PC → rail 5V USB → interfaz de audio**
 
-### Solución técnica identificada (al 4 jun 2026)
+### Solución técnica — primera iteración (al 4 jun 2026)
 
 Aislador USB con chip **ADuM3165** (soporta USB 2.0 High Speed, 480 Mbps) — modelo de referencia: **DSD TECH SH-G01B**.
 
 > ⚠️ Los aisladores genéricos con chip **ADUM3160** (12 Mbps, USB Full Speed) **no sirven** para el iD14 MkII que requiere High Speed.
 
-> ⚠️ **Nota de alcance**: el diagnóstico cambió en una sesión posterior al 13 de junio de 2026 — según la tabla de problemas técnicos, la causa pasó de "ruido USB" a "ground loop analógico". Confirmar estado actual antes de actuar. Ver [[wiki/problemas-resueltos/problemas-tecnicos]].
+### Resultado real del hub USB (actualización 2026-06-29)
+
+**El ruido disminuyó pero no desapareció.** Esto confirma que hay **dos fuentes de ruido simultáneas**:
+
+1. **Componente USB** (parcialmente resuelta): el rail 5V sucio del UPS llegaba al iD14 por el bus USB. El hub aisló o filtró parte de eso — de ahí la reducción.
+2. **Componente analógica** (no resuelta): una segunda fuente — probablemente un **ground loop analógico** en la cadena XLR o en las conexiones de línea — sigue inyectando ruido independientemente del USB.
+
+### Próximos pasos para aislar el componente analógico
+
+- Desconectar todos los cables XLR/TRS de la cadena (WA73-EQ, Distressor, monitores) con la interfaz encendida → si el ruido desaparece, el loop está en la cadena analógica
+- Reconectar uno a uno para localizar el punto de entrada del loop
+- Soluciones para ground loop analógico: cable XLR balanceado bien conectado en ambos extremos, **transformador de aislamiento de audio** en la conexión problemática, o **ground lift** si el equipo lo tiene
+- El hub USB ya cumplió su función parcial — no reemplazarlo ni quitarlo
+
+> ⚠️ Pendiente: aislar y resolver el componente analógico del ruido.
 
 ## Lecciones generales para este tipo de ruido
 
