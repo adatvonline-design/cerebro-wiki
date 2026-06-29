@@ -39,16 +39,30 @@ Cerebro/
 │   └── assets/        # Imágenes y adjuntos
 │
 ├── wiki/
-│   ├── negocios/      # Una página por negocio/proyecto
+│   ├── negocios/      # Una página .md por negocio + subcarpeta con detalle
+│   │   ├── educacion-musical.md        # Página principal del negocio
+│   │   ├── educacion-musical/          # Detalle específico
+│   │   │   ├── icp.md, objeciones.md, competidores.md, etc.
+│   │   ├── bruselas-live-music.md
+│   │   ├── bruselas/
+│   │   │   ├── icp.md, competidores.md, wedding-planners.md
+│   │   ├── emq.md
+│   │   └── daftapp.md
+│   │
+│   ├── areas/         # Conocimiento cross-proyecto (aplica a 2+ negocios)
+│   │   ├── ventas/    # Principios de conversión, posicionamiento, prueba social
+│   │   └── marketing/ # Producción de contenido, estrategia
+│   │
 │   ├── canales/       # Instagram, Meta Ads, Email, B2B outreach
-│   ├── herramientas/  # Brevo, CreatorFlow, Calendly, daftapp, etc.
-│   ├── contactos/     # Wedding planners, alumnos, colaboradores
-│   ├── conceptos/     # Principios, frameworks, aprendizajes clave
+│   ├── herramientas/  # Brevo, CreatorFlow, Calendly, etc.
+│   ├── contactos/     # Personas y listas de contacto
 │   ├── sources/       # Una página por fuente ingerida
 │   └── synthesis/     # Análisis cruzados, comparaciones, decisiones
 │
 └── outputs/           # Entregables generados (tablas, reportes, planes)
 ```
+
+**Regla clave:** Si un concepto aplica a un solo negocio → va en `negocios/[negocio]/`. Si aplica a 2 o más → va en `areas/`.
 
 ---
 
@@ -59,7 +73,7 @@ Cerebro/
 ```yaml
 ---
 title: "Nombre de la página"
-type: negocio | canal | herramienta | contacto | concepto | source | synthesis
+type: negocio | area | canal | herramienta | contacto | source | synthesis
 negocio: educacion | bruselas | emq | daftapp | todos
 tags: [tag1, tag2]
 created: YYYY-MM-DD
@@ -201,7 +215,7 @@ Ejecutar cada ~10 ingests o cuando Ernesto pida "revisar el wiki":
 
 ## index.md — Convenciones
 
-Secciones: Negocios | Canales | Herramientas | Contactos | Conceptos | Sources | Synthesis
+Secciones: Negocios (con subsecciones por negocio) | Áreas | Canales | Herramientas | Contactos | Sources | Synthesis
 
 ```
 - [[ruta/pagina]] — Una oración de qué trata. `[YYYY-MM-DD]`

@@ -4,6 +4,13 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 
 ---
 
+## [2026-06-28] restructure | Reorganización de carpetas
+- **Acción**: Reestructuración del wiki para mayor claridad por negocio
+- **Carpetas creadas**: `wiki/negocios/educacion-musical/`, `wiki/negocios/bruselas/`, `wiki/areas/ventas/`, `wiki/areas/marketing/`
+- **Archivos movidos**: conceptos específicos de cada negocio → subcarpeta del negocio correspondiente; conceptos cross-proyecto → `areas/`; wedding-planners → `negocios/bruselas/`
+- **Archivos actualizados**: `index.md` (rutas y estructura), `CLAUDE.md` (diagrama de carpetas y convenciones)
+- **Regla nueva**: concepto de 1 negocio → `negocios/[negocio]/`; concepto de 2+ negocios → `areas/`
+
 ## [2026-06-27] setup | Inicialización del wiki
 - **Acción**: Creación de la estructura base del wiki
 - **Archivos creados**: `CLAUDE.md`, `index.md`, `log.md`
