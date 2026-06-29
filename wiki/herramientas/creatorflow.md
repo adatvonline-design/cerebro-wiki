@@ -23,8 +23,9 @@ Elegida después de evaluar:
 
 - **Plan**: Gratis
 - **Límite**: 500 DM/mes
-- **Cuenta conectada**: @mercadoernesto (pendiente conectar ✓)
+- **Cuenta conectada**: @mercadoernesto ✓ activo
 - **Keyword trigger**: "CLASE"
+- **Campaña activa**: sí — pauta lanzada
 
 ### Flujo de DM configurado
 | Mensaje | Tipo | Contenido |
@@ -37,9 +38,8 @@ Elegida después de evaluar:
 
 ## Pendientes
 
-> ⚠️ Pendiente: Conectar CreatorFlow a @mercadoernesto.
-> ⚠️ Pendiente: Configurar flujo Msg1 y Msg3.
-> ⚠️ Pendiente: Probar el flujo completo comentando "CLASE" desde otra cuenta antes de lanzar pauta.
+> ⚠️ Pendiente: Documentar resultados de la primera campaña activa (DMs enviados, conversiones).
+> ⚠️ Pendiente: Monitorear si se supera el límite de 500 DM/mes en plan gratis.
 
 ## Limitaciones conocidas
 

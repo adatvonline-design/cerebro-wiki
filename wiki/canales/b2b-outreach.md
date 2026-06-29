@@ -29,6 +29,48 @@ Los wedding planners son gatekeepers de múltiples bodas por año. Un solo plann
 - Investigación de listas y datos → VA/Fiverr (tarea mecánica)
 - Relación con el planner → Ernesto personalmente (credibilidad musical cierra la boda)
 
+## Mensaje WhatsApp — Template activo (jun 2026)
+
+Canal: WhatsApp directo a planners conocidos (warm outreach).
+
+```
+Hola (nombre)! Cómo estás?
+
+(esperar respuesta)
+
+Bien también gracias! Oye, te escribo porque tengo dos proyectos nuevos que estoy
+moviendo para eventos que están buscando música más específica: PÁRAMO (dueto tipo
+Hermanos Gutiérrez) y NUAGES (jazz manouche y música francesa)
+
+Te mando un par de videos para que los cheques y los tengas en cuenta para próximos eventos.
+
+Espero podamos volver a colaborar pronto! cualquier cosa quedo al pendiente
+
+(videos)
+```
+
+**Por qué funciona este ángulo:**
+- No pide nada — solo informa y deja material
+- Menciona dos proyectos distintos con estéticas claras (ancla visual: Hermanos Gutiérrez)
+- "proyectos nuevos" crea relevancia sin presionar
+- El cierre es abierto, no hay CTA agresivo
+
+> ✓ Confirmado: Template redactado y aprobado por Ernesto. Campaña en curso semana del 2026-06-30.
+
+---
+
+## CRM de seguimiento
+
+Archivo local: `C:\Users\Dell\Documents\Claude\CRM_WhatsApp_Bruselas.xlsx`
+
+Columnas: Nombre | Teléfono | Correo | Web/IG | Enviado (fecha) | Estado (dropdown) | Nota | Sig. toque (fecha)
+
+Estados disponibles: Pendiente / Respondio / Sin respuesta / Interesado / Cerrado
+
+Regla: 2do toque a los 5–7 días. Sin respuesta al 2do toque → marcar "Sin respuesta" y pasar al siguiente.
+
+> ⚠️ Pendiente: Al cerrar cada semana, actualizar el CRM con el estado de cada conversación.
+
 ## Estado actual
 
 - **21 wedding planners mapeados** en Guadalajara/Zapopan/Tlaquepaque con teléfono, email y sitio

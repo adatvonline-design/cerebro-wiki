@@ -42,9 +42,16 @@ Géneros: jazz, bossa nova, música francesa, manouche/gypsy-jazz (bajo **Nuages
 - Archivo: `wedding_planners_guadalajara_seguimiento.xlsx`
 - Emails de outreach redactados (ES/EN): primer contacto sin precios, posicionándose como proveedor recomendado
 - Regla de seguimiento: 1 segundo toque a los 5–7 días si no hay respuesta; después, pasar a la siguiente cuenta
-- Campaña fría por [[wiki/herramientas/brevo|Brevo]] a ~80 wedding planners
+- **Email Brevo a ~80 planners**: programado para 2026-06-30 (mañana al momento de escribir esto)
+- **Campaña WhatsApp**: en curso esta semana a planners ya conocidos (warm outreach)
 - Dominio propio `bruselaslivemusic.com` (Namecheap), sender `info@bruselaslivemusic.com` verificado
-- Perfil en bodas.com.mx activo, ficha adaptada al producto real
+
+### bodas.mx — evaluado y descartado (jun 2026)
+- **Oferta recibida**: $18,000 MXN/año (descuento desde $24,000)
+- **Evaluación de Ernesto**: no es su nicho. La oferta de proveedores en la plataforma no coincide con el posicionamiento de Bruselas. Grupos aparentemente inactivos.
+- **Decisión**: no tomado. La señal del mercado (grupos inactivos, perfil de proveedor desalineado) no justifica el gasto.
+
+> ✓ Confirmado: bodas.mx descartado. El canal B2B directo (WhatsApp + Brevo a planners conocidos) es más eficiente y sin costo fijo.
 
 ### Pendientes activos
 > ⚠️ Pendiente: Implementar registro simple de conversaciones (fecha, canal, cerró sí/no, valor). Hoy Ernesto responde DMs/WhatsApp sin registrar origen ni resultado — el CRM es un agujero negro.

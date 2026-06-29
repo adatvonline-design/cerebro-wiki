@@ -39,11 +39,11 @@ _Canal de email marketing. Herramienta: Brevo (plan Starter). Lista de 863 conta
 - Botón visual en vez de link de texto plano
 - Sin CTAs dobles
 
-### Campaña fría — Bruselas Live Music (enviada)
+### Campaña fría — Bruselas Live Music (programada)
 - **Para**: ~80 wedding planners
 - **Desde**: sender `info@bruselaslivemusic.com` verificado
 - **Dominio**: `bruselaslivemusic.com` (Namecheap)
-- **Estado**: enviada, en seguimiento
+- **Estado**: programada para 2026-06-30 — aún no enviada
 
 ## Aprendizajes
 
@@ -53,7 +53,7 @@ _Canal de email marketing. Herramienta: Brevo (plan Starter). Lista de 863 conta
 ## Pendientes
 
 > ⚠️ Pendiente: Email #2 a 283 abrieron — clase diagnóstica gratuita, CTA único.
-> ⚠️ Pendiente: Seguimiento a campaña de Bruselas (~80 planners).
+> ⚠️ Pendiente: Revisar resultados de campaña Bruselas después del 2026-06-30 (apertura, respuestas, seguimiento).
 > ⚠️ Pendiente: Revisar si existe segmentación por interés (clases vs. daftapp) en la lista de 863.
 
 ## Secuencia MailerLite (lista clases — propuesta)

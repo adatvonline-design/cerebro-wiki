@@ -4,6 +4,27 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 
 ---
 
+## [2026-06-29] query | Posicionamiento Bruselas con wedding planners en GDL
+- **Método**: STORM Research — 5 lentes en paralelo (Práctico, Académico, Escéptico, Economista, Estratega Digital)
+- **Páginas creadas**: [[wiki/synthesis/posicionamiento-bruselas-planners-gdl]]
+- **Reporte completo**: Drive → carpeta "STORM Research" → "STORM — Posicionamiento Bruselas con Planners GDL (2026-06-29)"
+- **Hallazgos clave**: mercado opera por referidos (no búsqueda fría); nicho sub-ocupado en GDL; Instagram es validación no descubrimiento; precio actual mal calibrado hacia abajo; Jazzette y MZ Jazz son únicos competidores directos
+- **Pendientes detectados**: ¿existe video de actuaciones reales para publicar? Acción urgente: optimizar @bruselaslivemusic antes del email de Brevo del 30 jun
+
+## [2026-06-29] corrección | Datos incorrectos detectados por Ernesto
+- **Origen del error**: datos del wiki construidos de fuentes ChatGPT 2024-2026 sin verificación contra el estado real actual
+- **Correcciones aplicadas**:
+  - `herramientas/creatorflow.md` — estado cambiado de "pendiente configurar" a "activo + campaña lanzada"
+  - `canales/email-brevo.md` — campaña Bruselas cambiada de "enviada" a "programada 2026-06-30"
+  - `negocios/nikan.md` — álbum cambiado de "en desarrollo" a "grabado (2025)", pendientes actualizados
+  - `wiki/estado-actual.md` — pulso, pendientes y recomendaciones REC-001 a REC-004 reescritos
+- **Datos confirmados como correctos por Ernesto**:
+  - CreatorFlow: activo, campaña lanzada ✓
+  - Link de bio: Calendly ✓
+  - Email Bruselas #1: NO enviado, programado para 2026-06-30
+  - Nikan: álbum grabado en 2025 (estado post-grabación pendiente confirmar)
+- **Pendiente sin resolver**: ¿en qué etapa está Nikan ahora? (mezcla / masterización / distribución / publicado)
+
 ## [2026-06-29] restructure | Arquitectura de sesión para máxima calidad de output
 - **Acción**: Rediseño del flujo de sesión para priorizar calidad y memoria perpetua en consultas de negocio
 - **Cambios en CLAUDE.md**:

@@ -21,8 +21,10 @@ No es un proyecto de covers ni de jazz estándar. Es un álbum de música origin
 
 ## Estado actual
 
-- **Estado:** álbum en desarrollo
+- **Estado:** álbum grabado (2025) — etapa actual desconocida (¿mezcla, masterización, distribución?)
 - **Prioridad:** muy alta — es el núcleo de la visión artística de largo plazo
+
+> ⚠️ Pendiente: Confirmar estado post-grabación — ¿en mezcla, masterización, o ya distribuido?
 
 ## Objetivos
 
@@ -44,10 +46,9 @@ Nikan no es EMQ ni Bruselas. Es el proyecto conceptual más ambicioso:
 
 ## Pendientes
 
-> ⚠️ Pendiente: Definir músicos colaboradores del álbum.
-> ⚠️ Pendiente: Establecer calendario de composición y grabación.
-> ⚠️ Pendiente: Definir presupuesto y forma de financiamiento.
-> ⚠️ Pendiente: Decidir plataforma/sello de distribución.
+> ⚠️ Pendiente: Confirmar estado actual del álbum (mezcla / masterización / distribución / publicado).
+> ⚠️ Pendiente: Documentar músicos que participaron en la grabación 2025.
+> ⚠️ Pendiente: Definir estrategia de lanzamiento si aún no está publicado.
 
 ## Conexiones
 

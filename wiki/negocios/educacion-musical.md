@@ -42,13 +42,15 @@ Modalidades: presencial en estudio en Guadalajara, o en línea.
 - [[wiki/herramientas/calendly|Calendly]] corregido completamente (ver página)
 - Lista de 863 contactos limpia, cargada en [[wiki/herramientas/brevo|Brevo]] (plan Starter)
 
+### Resueltos (jun 2026)
+> ✓ Link de bio: Calendly ✓
+> ✓ CreatorFlow conectado a @mercadoernesto, flujo configurado, campaña activa ✓
+
 ### Pendientes activos
-> ⚠️ Pendiente: Decidir y enviar Email #2 (clase diagnóstica gratuita de 25 min) a los 283 contactos que abrieron Email #1.
-> ⚠️ Pendiente: Resolver conflicto del único link de bio de Instagram (hoy ocupado por Calendly) antes de lanzar el video de daftapp.
+> ⚠️ Pendiente: Monitorear conversiones de CreatorFlow: comentarios → DM → Calendly → pago.
+> ⚠️ Pendiente: Enviar Email #2 (clase diagnóstica gratuita de 25 min) a los 283 que abrieron Email #1.
 > ⚠️ Pendiente: Grabar reel de sustitución de dominantes con CTA "Comenta CLASE".
-> ⚠️ Pendiente: Conectar [[wiki/herramientas/creatorflow|CreatorFlow]] a @mercadoernesto y configurar flujo de DM.
-> ⚠️ Pendiente: Probar flujo completo comentando "CLASE" desde otra cuenta.
-> ⚠️ Pendiente: Monitorear conversiones reales: comentarios → DM → Calendly → pago.
+> ⚠️ Pendiente: Definir hoja de ruta para cursos online (plataforma, tema del primer curso, fecha objetivo).
 
 ## Métricas clave
 
