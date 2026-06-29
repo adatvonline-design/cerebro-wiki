@@ -5,6 +5,12 @@ _Última actualización: 2026-06-29_
 
 ---
 
+## 🔴 Dashboard (leer primero)
+
+- [[wiki/estado-actual]] — Pulso del sistema: urgencias, pendientes críticos, recomendaciones activas, métricas. Actualizado cada sesión. `[2026-06-29]`
+
+---
+
 ## Negocios
 
 ### Educación Musical (Nau Music Lab / @mercadoernesto)
@@ -28,12 +34,19 @@ _Última actualización: 2026-06-29_
 - [[wiki/negocios/emq]] — Jazz contemporáneo. Alineación: Eli (sax), Freedy (bajo), Shatter (piano), Guillermo (bat). +1 roadie = 6 en gira. `[2026-06-29]`
 - [[wiki/negocios/emq-studio]] — Espacio de clases/video/grabación en Colonias 457. Tratamiento acústico en construcción por fases. `[2026-06-29]`
 
+### Nikan
+- [[wiki/negocios/nikan]] — Álbum colaborativo. "Nikan" = "aquí" en náhuatl. Presencia y colaboración con músicos nuevos. Máxima prioridad artística. `[2026-06-29]`
+
 ### daftapp
 - [[wiki/negocios/daftapp]] — Web app de progresiones de acordes en GitHub Pages. Distribución pendiente. `[2026-06-27]`
 
 ---
 
 ## Áreas (conocimiento cross-proyecto)
+
+### Identidad y estrategia
+- [[wiki/areas/perfil-profesional]] — Quién es Ernesto como artista: identidad, filosofía, valores, metodología, motivaciones. `[2026-06-29]`
+- [[wiki/areas/sistema-operativo-personal]] — Marco SMOP: filtro de proyectos, clasificación Tipo A/B/C, sistema de prioridades, señales de alerta. `[2026-06-29]`
 
 ### Ventas
 - [[wiki/areas/ventas/principio-conversion]] — El cuello de botella es siempre conversión, no alcance. Confirmado en todos los canales. `[2026-06-27]`
@@ -52,6 +65,7 @@ _Última actualización: 2026-06-29_
 - [[wiki/canales/youtube-mercadoernesto]] — Canal YouTube educativo. Video acordes aumentados: 8.26% CTR, 1,145 vistas en 4h. `[2026-06-28]`
 - [[wiki/canales/email-brevo]] — Dos listas: MailerLite 2,500 (clases) + Brevo 863 (Email #1 enviado, 50.22% apertura). `[2026-06-29]`
 - [[wiki/canales/b2b-outreach]] — Outreach directo a wedding planners para Bruselas. 21 mapeados, ~80 en campaña Brevo. `[2026-06-27]`
+- [[wiki/canales/whatsapp-planners-paramo-nuages]] — Plantilla aprobada de WhatsApp para planners con quienes ya se trabajó, ofreciendo Páramo y Nuages. `[2026-06-29]`
 
 ---
 
@@ -90,18 +104,28 @@ _Última actualización: 2026-06-29_
 
 ---
 
+## Personal
+
+- [[wiki/personal/salud]] — Antecedentes de salud: trompa de Eustaquio (2024, resuelto), extrasístoles ventriculares unifocales (reducidas). `[2026-06-29]`
+
+---
+
 ## Sources
 
 - [[wiki/sources/briefing-inicial-negocio]] — Estado completo de los 4 negocios, métricas reales, pendientes y herramientas. `[2026-06-27]`
+- [[wiki/sources/chatgpt-docs-2024-2026]] — 18 documentos exportados de ChatGPT 2024–2026: perfil, roadmap, DAFO, proyectos, técnico, salud. `[2026-06-29]`
 
 ---
 
 ## Synthesis
 
-_(vacío — se puebla con análisis cruzados y decisiones)_
+- [[wiki/synthesis/roadmap-2026-2031]] — Plan estratégico 5 años: 5 etapas de Consolidación a Consolidación Artística. `[2026-06-29]`
+- [[wiki/synthesis/analisis-estrategico-2026]] — DAFO integral: fortalezas (pensamiento sistémico, formación, docencia), oportunidades (IA, cine, cursos), riesgo principal (fragmentación). `[2026-06-29]`
 
 ---
 
-**Totales:** 1 fuente · 5 negocios principales · 4 áreas · 5 canales · 8 herramientas · 3 contratos · 3 conceptos · 1 problemas-resueltos · 0 síntesis
+_Última actualización: 2026-06-29_
 
-**Pendientes abiertos:** ~25 (ver `> ⚠️` en cada página)
+**Totales:** 2 fuentes · 6 negocios principales · 6 áreas · 5 canales · 8 herramientas · 3 contratos · 3 conceptos · 1 personal · 1 problemas-resueltos · 2 síntesis
+
+**Pendientes abiertos:** ~30 (ver `> ⚠️` en cada página)

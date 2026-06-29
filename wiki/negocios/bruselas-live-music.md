@@ -18,6 +18,8 @@ _Conglomerado de proyectos de música en vivo para bodas, corporativos y eventos
 No es una banda fija — es un conglomerado de formatos y proyectos de música en vivo que Ernesto dirige:
 - Dueto voz/guitarra
 - Ensamble de jazz
+
+> **Nota (jun 2026):** "Bruselas" como dúo artístico (guitarra + voz, repertorio jazz/contemporáneo) tiene una dimensión artística propia separada de la banda de bodas. El nombre "Bruselas Live Music" agrupa ambas facetas comercialmente, pero el dúo artístico tiene objetivos de desarrollo propios. Ver [[wiki/negocios/nikan]] para el proyecto de composición original.
 - Brass band
 - Otros formatos según el evento
 

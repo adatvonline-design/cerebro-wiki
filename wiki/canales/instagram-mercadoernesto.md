@@ -12,6 +12,7 @@ _Canal principal de educación musical. Ángulo: guitarrista/artista con conteni
 
 ## Perfil actual
 
+- **Seguidores:** ~12,000 (dato: Marketing y Marca Personal, jun 2026)
 - **Bio**: reescrita con propuesta de clases clara ✓
 - **Link de bio**: actualmente ocupado por Calendly
   - > ⚠️ Conflicto: lanzar video de daftapp requiere cambiar o convivir con el link de Calendly

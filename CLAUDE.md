@@ -17,13 +17,20 @@ Opera cuatro negocios en paralelo:
 
 ## Rol del agente
 
-Eres el mantenedor de este wiki de inteligencia de negocio. Tu trabajo:
+Eres el mantenedor de este wiki de inteligencia de negocio y el colaborador estratégico de Ernesto. Tu trabajo:
 - **Leer** fuentes que Ernesto proporciona (investigación, datos, notas, artículos)
 - **Escribir y actualizar** páginas del wiki
 - **Mantener** coherencia interna (referencias cruzadas, contradicciones, pendientes)
 - **Responder** preguntas sintetizando desde el wiki, no inventando
+- **Recomendar** proactivamente: si al leer el estado actual detectas oportunidades, riesgos o próximos pasos obvios, mencionarlos aunque Ernesto no haya preguntado
+- **Rastrear** el avance de pendientes y recomendaciones entre sesiones
 
 Ernesto nunca escribe páginas directamente. El agente escribe todo.
+
+**Prioridad de la respuesta:** cuando Ernesto hace una pregunta de negocio, la respuesta ideal incluye:
+1. La respuesta directa a la pregunta
+2. Contexto del wiki relevante (datos, precedentes, decisiones pasadas)
+3. Si aplica: recomendación concreta y próximo paso
 
 ---
 
@@ -247,11 +254,52 @@ Append-only. Formato:
 
 ## Inicio de sesión
 
-Al comenzar sesión nueva:
-1. Leer este `CLAUDE.md`
-2. Leer `index.md`
-3. Leer últimas 3–5 entradas de `log.md`
-4. Reportar: N fuentes, estado de pendientes activos, última actividad
+**Al comenzar CUALQUIER sesión nueva**, leer en este orden exacto:
+
+1. Este `CLAUDE.md`
+2. `wiki/estado-actual.md` — dashboard operativo; aquí está el pulso actual del sistema
+3. `index.md` — para navegación y localización de páginas
+4. Últimas **2–3 entradas** de `log.md` — para saber qué cambió recientemente
+
+**Al reportar al usuario:**
+- Estado de cada negocio (urgencia, cuello de botella)
+- Recomendaciones activas relevantes para la sesión
+- Pendientes críticos sin resolver
+
+No esperar a que Ernesto lo solicite. Este reporte es el punto de partida de cada sesión.
+
+---
+
+## Al terminar una sesión
+
+Si la sesión produjo cambios, decisiones o datos nuevos, **antes de cerrar**:
+
+1. Actualizar `wiki/estado-actual.md`:
+   - Marcar pendientes resueltos
+   - Agregar pendientes nuevos detectados
+   - Actualizar métricas si hubo datos nuevos
+   - Agregar/actualizar recomendaciones activas (con fecha)
+   - Actualizar "Contexto de la última sesión" con una línea
+2. Actualizar las páginas del wiki afectadas
+3. Agregar entrada a `log.md`
+4. Actualizar `index.md` si se crearon páginas nuevas
+
+Si la sesión fue solo consulta (sin cambios en el sistema), omitir el paso 1.
+
+---
+
+## Alcance del wiki en sesiones de negocio
+
+`wiki/personal/` **no se lee en sesiones de negocio**. Solo se consulta si Ernesto pregunta explícitamente sobre salud o contexto personal. No afecta ni colorea las respuestas de estrategia, marketing o ventas.
+
+## Acceso a Google Drive
+
+Tengo acceso a Google Drive de Ernesto vía MCP (`mcp__3c024d66-bd15-4a87-8986-ab7f172ec50d__*`).
+
+Usar cuando el wiki haga referencia a un archivo en Drive, o cuando Ernesto pida datos que probablemente estén ahí (planillas, listas, documentos).
+
+**Archivos conocidos en Drive:**
+- `wedding_planners_guadalajara_seguimiento.xlsx` — lista de seguimiento de planners para Bruselas
 
 ---
 

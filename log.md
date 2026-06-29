@@ -4,6 +4,45 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 
 ---
 
+## [2026-06-29] restructure | Arquitectura de sesión para máxima calidad de output
+- **Acción**: Rediseño del flujo de sesión para priorizar calidad y memoria perpetua en consultas de negocio
+- **Cambios en CLAUDE.md**:
+  - Rol del agente ampliado: ahora incluye recomendar proactivamente y rastrear pendientes entre sesiones
+  - Inicio de sesión: `estado-actual.md` ahora es la primera lectura (antes era index.md)
+  - Nuevo flujo "Al terminar sesión": obligatorio actualizar estado-actual antes de cerrar
+  - `wiki/personal/` excluido explícitamente del flujo de sesiones de negocio
+- **Páginas creadas**: [[wiki/estado-actual]] — dashboard operativo con pulso por negocio, pendientes críticos, recomendaciones activas (REC-001 a REC-004), métricas
+- **Impacto**: cada sesión nueva arranca con el estado más reciente del sistema; recomendaciones persisten entre sesiones hasta resolverse
+
+## [2026-06-29] ingest | Documentos ChatGPT 2024–2026 (18 archivos)
+- **Fuente**: Carpeta `raw/chat gpt/` — 18 documentos .docx exportados de dos años de conversaciones con ChatGPT (2024–2026)
+- **Páginas creadas**:
+  - [[wiki/areas/perfil-profesional]] — identidad artística, filosofía creativa, valores, metodología
+  - [[wiki/negocios/nikan]] — proyecto de álbum colaborativo, máxima prioridad artística
+  - [[wiki/synthesis/roadmap-2026-2031]] — plan estratégico de 5 etapas (2026–2031)
+  - [[wiki/synthesis/analisis-estrategico-2026]] — DAFO integral de la situación profesional
+  - [[wiki/areas/sistema-operativo-personal]] — marco SMOP: filtros, clasificación de trabajo, prioridades
+  - [[wiki/personal/salud]] — antecedentes de salud (trompa de Eustaquio, extrasístoles)
+  - [[wiki/sources/chatgpt-docs-2024-2026]] — registro de fuente
+- **Páginas actualizadas**:
+  - [[wiki/canales/instagram-mercadoernesto]] — agregado dato ~12,000 seguidores
+  - [[wiki/negocios/bruselas-live-music]] — aclarada dimensión artística del dúo
+  - `index.md` — nuevas secciones: Personal, Synthesis, áreas de Identidad y estrategia
+- **Datos nuevos confirmados**:
+  - Instagram @mercadoernesto: ~12,000 seguidores (jun 2026)
+  - Nikan: álbum en desarrollo, prioridad muy alta, concepto de presencia/náhuatl
+  - Visión de largo plazo: composición para cine como prioridad 2
+  - Bruselas también funciona como dúo artístico (jazz/contemporáneo) además de banda de bodas
+- **Información NO integrada (posiblemente outdated)**:
+  - Detalles de hardware en EMKB-004 incompletos (faltaban CPU, RAM, GPU, DAW, etc.) — ya están en wiki/herramientas/equipo-computo con datos más recientes
+  - Configuraciones técnicas del estudio — wiki/herramientas/ ya las cubre con datos de sesiones más recientes
+  - Bitácora técnica de ChatGPT — wiki/problemas-resueltos ya tiene la información actualizada
+- **Pendientes detectados**:
+  - Definir músicos colaboradores para Nikan
+  - Completar inventario técnico en herramientas/equipo-computo (CPU, RAM, GPU, DAW, plugins)
+  - Verificar seguidores actuales en Instagram (dato ChatGPT puede estar desactualizado)
+- **Notas**: Se creó carpeta `wiki/personal/` nueva para background personal no relacionado con negocios. El schema de CLAUDE.md no la incluía; puede formalizarse si el vault crece en esta dirección.
+
 ## [2026-06-28] restructure | Reorganización de carpetas
 - **Acción**: Reestructuración del wiki para mayor claridad por negocio
 - **Carpetas creadas**: `wiki/negocios/educacion-musical/`, `wiki/negocios/bruselas/`, `wiki/areas/ventas/`, `wiki/areas/marketing/`
@@ -141,6 +180,16 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
   - `Google Keep/herramientas/` — 1 nota (guía Sony ZV-E10 + gimbal)
   - `Google Keep/archivo/` — 1,042 notas (triviales, completadas, personales, sin clasificar)
 - **Ningún archivo borrado** — solo reorganización en subcarpetas
+
+## [2026-06-29] ingest | Plantilla WhatsApp Páramo y Nuages para planners
+
+- **Fuente**: Conversación directa — plantilla aprobada por Ernesto
+- **Páginas creadas**:
+  - [[wiki/canales/whatsapp-planners-paramo-nuages]] — plantilla de dos pasos para contactar planners con quienes ya se trabajó, ofreciendo Páramo (tipo Hermanos Gutiérrez) y Nuages (jazz manouche y música francesa)
+- **Páginas actualizadas**: `index.md`
+- **Notas**: Estructura de dos pasos validada (esperar respuesta antes del pitch). Videos obligatorios como cierre.
+
+---
 
 ## [2026-06-28] ingest | Notas Google Keep → wiki
 

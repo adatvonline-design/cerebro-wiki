@@ -1,8 +1,14 @@
 ---
 type: archivo
-tags: [archivo, google-keep]
+tags:
+  - archivo
+  - google-keep
+  - guitar
+  - guitarra
+  - licks
 ---
 
+[[guitarra]]
 
 https://www.youtube.com/watch?v=TdJKtpyXw60
 
