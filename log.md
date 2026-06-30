@@ -4,6 +4,12 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 
 ---
 
+## [2026-06-29] ingest | Cotizaciones Páramo y Nuages
+- **Fuente**: datos confirmados por Ernesto en sesión
+- **Páginas creadas**: [[wiki/negocios/bruselas/cotizaciones]]
+- **Páginas actualizadas**: [[wiki/negocios/bruselas-live-music]], [[index]]
+- **Pendientes detectados**: confirmar tarifas para otros formatos (brass band, cuarteto jazz, dueto voz/guitarra)
+
 ## [2026-06-29] query | Posicionamiento Bruselas con wedding planners en GDL
 - **Método**: STORM Research — 5 lentes en paralelo (Práctico, Académico, Escéptico, Economista, Estratega Digital)
 - **Páginas creadas**: [[wiki/synthesis/posicionamiento-bruselas-planners-gdl]]

@@ -27,10 +27,13 @@ Géneros: jazz, bossa nova, música francesa, manouche/gypsy-jazz (bajo **Nuages
 
 ## Oferta y precios
 
-| Formato | Ticket promedio |
-|---|---|
-| Boda | $12,000–$25,000 MXN |
-| Corporativo / privado | (no especificado) |
+| Proyecto | Formato | Set | Precio |
+|---|---|---|---|
+| **Páramo** | 2 músicos + ingeniero | 90 min | $26,650 MXN |
+| **Nuages** | 5 músicos + ingeniero | 90 min | $45,700 MXN |
+
+- **Músico individual**: $11,325 MXN — **Ingeniero**: $4,000 MXN
+- Ver desglose completo: [[wiki/negocios/bruselas/cotizaciones]]
 
 **Meta actual**: 1 evento/mes.
 **Presupuesto sostenible de marketing**: <$2,000 MXN/mes.

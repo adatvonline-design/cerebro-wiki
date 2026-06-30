@@ -28,6 +28,7 @@ _Última actualización: 2026-06-29_
 - [[wiki/negocios/bruselas/icp]] — Bodas modernas de nicho: jazz, bossa nova, Páramo-style, música francesa. `[2026-06-27]`
 - [[wiki/negocios/bruselas/competidores]] — Loretta (genérico/$3,700), Jazzette (agencia/2014), MZ Jazz (jazz elegante). Nadie ocupa el nicho Páramo. `[2026-06-27]`
 - [[wiki/negocios/bruselas/wedding-planners]] — Lista de 21 planners en GDL/Zapopan/Tlaquepaque con datos de contacto. `[2026-06-27]`
+- [[wiki/negocios/bruselas/cotizaciones]] — Precios oficiales: Páramo $26,650 (2 músicos + ing.), Nuages $45,700 (5 músicos + ing.). `[2026-06-29]`
 - [[wiki/negocios/nuages]] — Banda de jazz manouche. Problema de identidad duplicada en streaming. Recomendación: DistroKid. `[2026-06-29]`
 
 ### EMQ (Ernesto Mercado Quintet)
