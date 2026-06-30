@@ -4,6 +4,11 @@ Registro append-only de todas las operaciones. Nunca borrar entradas.
 
 ---
 
+## [2026-06-30] ingest | 3 variantes de mensaje WhatsApp para planners
+- **Fuente**: mensajes confirmados por Ernesto en sesión
+- **Páginas actualizadas**: [[wiki/canales/whatsapp-planners-paramo-nuages]]
+- **Notas**: Variante 2 (orientada al cliente del planner) marcada como recomendada. Variante 3 es la única que menciona jazz — usar solo con planners que no conocen el catálogo.
+
 ## [2026-06-29] ingest | Cotizaciones Páramo y Nuages
 - **Fuente**: datos confirmados por Ernesto en sesión
 - **Páginas creadas**: [[wiki/negocios/bruselas/cotizaciones]]
